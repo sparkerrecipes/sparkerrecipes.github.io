@@ -1,6 +1,4 @@
 ---
-layout: recipe
-title: Blackened Tilapia
 tags: main fish
 ingredients:
   Blackening Spice:

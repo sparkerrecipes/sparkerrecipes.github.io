@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sparker Recipes
+title: Sparking Recipes
 description: >- # this means to ignore newlines until "baseurl:"
   Dishes I like to cook
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -62,3 +62,11 @@ exclude:
 collections:
   recipes:
     output: true
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "recipes"
+    values:
+      layout: "recipe"
