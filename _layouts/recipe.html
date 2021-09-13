@@ -11,8 +11,9 @@ layout: page
 </div>
 {% endif %}
 
-<em>{{content}}</em>
+{{content}}
 
+{% if page.instructions %}
 <!-- ingredients -->
 <div>
   <h3>Ingredients</h3>
@@ -40,7 +41,9 @@ layout: page
   {% endif %}
 </div>
 <!-- ingredients -->
+{% endif %}
 
+{% if page.instructions %}
 <!-- instructions -->
 <div itemprop="recipeInstructions">
   <h3>Instructions</h3>
@@ -50,6 +53,7 @@ layout: page
   </ol>
 </div>
 <!-- instructions -->
+{% endif %}
 
 {% if page.prep or page.cook %}
 <dl class="dl-horizontal">

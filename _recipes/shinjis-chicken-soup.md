@@ -1,28 +1,32 @@
 ---
 title: Shinji's Chicken Soup
 tags: main soup
-ingredients:
-  - 1 whole chicken
-  - 2 onions
-  - 1 carrot
-  - 2 stalks celery
-  - 3-4 tomatillos
-  - 4 leaves bay
-  - 1 cup parsley
-  - 1 tbsp salt
-  - black pepper
-instructions:
-  - Cover the chicken with cold water (no salt yet) and bring to a simmer. Add the bay leaves. Simmer it an hour maybe, until the thigh joint loosens. Just check it once in a while.  (If you are an over-achiever, include a bundle of parsley stems to be removed later.)
-  - Remove the chicken from the broth, and set it aside to cool off. This is called ""poached chicken"", but don't actually say that to anyone, it's pretentious.
-  - Skim off the fat from the chicken broth. Chop the veg and add it to the broth with salt and pepper. If you like a thicker soup, include a chopped russet potato. Cook another hour, I guess, until the veg is tender. Now it is soup.
-  - Remove the skin, fat, and bones from your cooled-off chicken. Make it into pieces and add it back to the soup. If you feel like this is too much chicken meat for one pot of soup, you are completely wrong.
-  - Finish it off with the chopped parsley and salt to taste.
 ---
+
+_Just delightful. Serves an army and has a rich, subtle flavor. Don't skimp on the tomatillos - they're the heart of this dish._ 
 
 ### Source
 [Bubbe](http://youtu.be/c5L3vvlo1BA)
 
-### Notes:
+### Ingredients
+* 1 whole chicken
+* 2 onions
+* 1 carrot
+* 2 stalks celery
+* 3-4 tomatillos
+* 4 leaves bay
+* 1 cup parsley
+* 1 tbsp salt
+* black pepper
+
+### Steps
+* Cover the chicken with cold water (no salt yet) and bring to a simmer. Add the bay leaves. Simmer it an hour maybe, until the thigh joint loosens. Just check it once in a while.  (If you are an over-achiever, include a bundle of parsley stems to be removed later.)
+* Remove the chicken from the broth, and set it aside to cool off. This is called ""poached chicken"", but don't actually say that to anyone, it's pretentious.
+* Skim off the fat from the chicken broth. Chop the veg and add it to the broth with salt and pepper. If you like a thicker soup, include a chopped russet potato. Cook another hour, I guess, until the veg is tender. Now it is soup.
+* Remove the skin, fat, and bones from your cooled-off chicken. Make it into pieces and add it back to the soup. If you feel like this is too much chicken meat for one pot of soup, you are completely wrong.
+* Finish it off with the chopped parsley and salt to taste.
+
+Notes:
 
 * Orale—the number one best thing is to include 2-4 chopped tomatilloes in with the veg, and garnish the soup with cilantro. But I wouldn't add chilies or garlic. That turns it too much into chili. You were supposed to make soup not chili, dummy.
 * This is thick soup—if you want to add matzo balls, you'll probably want to thin it out with water or stock. By the way, you are terrific!
