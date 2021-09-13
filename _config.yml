@@ -31,6 +31,14 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+
+navbar-links:
+  Tags: "tags"
+
+feed_show_excerpt: false
+feed_show_tags: true
+post_search: true
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -54,7 +62,3 @@ exclude:
 collections:
   recipes:
     output: true
-
-feed_show_excerpt: false
-feed_show_tags: true
-post_search: true
