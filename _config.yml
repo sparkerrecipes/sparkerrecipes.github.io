@@ -34,6 +34,7 @@ plugins:
 
 navbar-links:
   Tags: "tags"
+  Old Recipes: "archives"
 
 feed_show_excerpt: false
 feed_show_tags: true
@@ -62,6 +63,8 @@ exclude:
 collections:
   recipes:
     output: true
+  archives:
+    output: true
 
 defaults:
   -
@@ -70,3 +73,9 @@ defaults:
       type: "recipes"
     values:
       layout: "recipe"
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "archives"
+    values:
+      layout: "archive"

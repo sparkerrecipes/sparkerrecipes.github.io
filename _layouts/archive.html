@@ -1,0 +1,65 @@
+---
+layout: page
+---
+
+{% if site.feed_show_tags != false and page.tags.size > 0 %}
+<div class="blog-tags">
+  <span>Tags:</span>
+  {% for tag in page.tags %}
+  <a href="{{ '/archive-tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+  {% endfor %}
+</div>
+{% endif %}
+
+{{content}}
+
+{% if page.instructions %}
+<!-- ingredients -->
+<div>
+  <h3>Ingredients</h3>
+  {% if page.ingredients.first.first %}
+  {% for ingredient_list in page.ingredients %}
+  <h6>{{ ingredient_list.first }}</h6>
+  <ul>
+    {% for ingredient in ingredient_list %}
+
+    {% for foo in ingredient %}
+    {% if foo != ingredient_list.first %}
+
+    <li itemprop="ingredients">{{ foo }}</li>
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+  </ul>
+  {% endfor %}
+  {% else %}
+  <ul>
+    {% for ingredient in page.ingredients %}
+    <li itemprop="ingredients">{{ ingredient }}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
+<!-- ingredients -->
+{% endif %}
+
+{% if page.instructions %}
+<!-- instructions -->
+<div itemprop="recipeInstructions">
+  <h3>Instructions</h3>
+  <ol>
+    <li>{{ page.instructions | join: '</li>
+    <li>' }}</li>
+  </ol>
+</div>
+<!-- instructions -->
+{% endif %}
+
+{% if page.prep or page.cook %}
+<dl class="dl-horizontal">
+  {% if page.prep %}<dt>Preparation time</dt>
+  <dd>{{ page.prep }} mins<span itemprop="prepTime" class="invisible">PT{{ page.prep }}M</span></dd>{% endif %}
+  {% if page.cook %}<dt>Cooking time</dt>
+  <dd>{{ page.cook }} mins<span itemprop="cookTime" class="invisible">PT{{ page.cook }}M</span></dd>{% endif %}
+</dl>
+{% endif %}

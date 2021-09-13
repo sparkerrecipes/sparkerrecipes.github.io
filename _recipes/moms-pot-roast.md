@@ -1,5 +1,6 @@
 ---
 title: Mom's Pot Roast
+tags: main
 ---
 _One of my favorite dishes and a sparker family tradition. Great for feeding large crowds as you can make well in advance and entertain while it's finishing. As the frozen roast thaws, it keeps the meat juicy and tender. Extra veggies in the pot soak up the wonderful juices and provide a one-pot meal._
 

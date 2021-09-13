@@ -1,5 +1,6 @@
 ---
-title: Mom's BBQ Chiken
+title: Mom's BBQ Chicken
+tags: main
 ---
 
 _Proper BBQ chicken is a little tedious to make on the grill. My mother is nothing if not pragmatic, and makes a much less labor-intensive version. It's a Parker family Christmas tradition_
