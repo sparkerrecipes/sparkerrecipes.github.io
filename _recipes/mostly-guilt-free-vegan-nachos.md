@@ -2,7 +2,7 @@
 tags: main side appetizer
 ---
 ### Source
-(Love & Lemons)[https://www.loveandlemons.com/nachos-recipe/]
+[Love & Lemons](https://www.loveandlemons.com/nachos-recipe/)
 
 ### Ingredients
 * Chips

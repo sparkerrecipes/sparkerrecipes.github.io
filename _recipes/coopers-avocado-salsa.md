@@ -3,7 +3,7 @@ tags: appetizer
 ---
 
 ### Source
-(Spontaneous Tomato)[https://spontaneoustomato.com/2014/06/19/taqueria-style-creamy-avocado-salsa/]
+[Spontaneous Tomato](https://spontaneoustomato.com/2014/06/19/taqueria-style-creamy-avocado-salsa/)
 
 ### Ingredients
 * 10 tomatillos, de-husked and rinsed well (buy a few extras, since it’s hard to tell if some are bad)
