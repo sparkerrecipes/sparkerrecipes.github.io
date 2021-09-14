@@ -2,7 +2,7 @@
 tags: sauce
 ---
 
-_This sauce plus store-bought tortellini makes a wonderful weeknight meal. I always use a Polish salami with this for a little bit of heat. Red peppers make a good addition too._
+_This sauce plus store-bought tortellini makes a wonderful weeknight meal._
  
 ### Ingredients
 * 28 oz can of San Marzano plum tomatoes

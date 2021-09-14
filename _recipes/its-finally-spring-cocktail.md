@@ -1,6 +1,5 @@
 ---
 tags: cocktail
-title: \"It's Finally Spring\" Cocktail
 ---
 
 _Perhaps my favorite cocktail. This is our best recreation of the ""It's Finally Spring"" cocktail from the restaurant SOLA here in Chicago (RIP)._
