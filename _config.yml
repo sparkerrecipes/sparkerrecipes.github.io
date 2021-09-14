@@ -31,10 +31,13 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+site-css:
+ - "/assets/app.css"
 
 navbar-links:
-  Tags: "tags"
-  Old Recipes: "archives"
+  By Tags: "/"
+  By Newest: "all"
+  The Archives: "archives"
 
 feed_show_excerpt: false
 feed_show_tags: true

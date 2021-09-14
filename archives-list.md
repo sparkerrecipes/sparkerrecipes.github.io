@@ -1,10 +1,12 @@
 ---
 layout: page
+title: The Archives
+subtitle: Recipes I Don't Make Often<small>by newest</small>
 ---
 
-{{ content }}
+<a href="/archives">By tags instead</a>
 
-{% assign posts = paginator.recipes | default: site.recipes %}
+{% assign posts = paginator.archives | default: site.archives %}
 
 <div class="posts-list">
   {% for post in posts %}
@@ -75,7 +77,7 @@ layout: page
     <div class="blog-tags">
       <span>Tags:</span>
       {% for tag in post.tags %}
-      <a href="{{ '/' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+      <a href="{{ '/archives' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
       {% endfor %}
     </div>
     {% endif %}
