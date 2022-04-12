@@ -4,7 +4,7 @@ tags: dessert
 
 Source: [Serious Eats](https://www.seriouseats.com)
 
-_Very good with [Brown Sugar Whipped Cream](/recipes/brown-sugar-whipped-cream.html) and [Vodka Pie Crust](/recipes/pie-crust.html)_
+_Very good with [Brown Sugar Whipped Cream](/recipes/brown-sugar-whipped-cream.html) and [Vodka Pie Crust](/recipes/vodka-pie-crust.html)_
 
 ### Ingredients
 * 2 lbs fresh strawberries
