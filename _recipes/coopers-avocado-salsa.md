@@ -1,9 +1,10 @@
 ---
 tags: appetizer
+title: Cooper's Avocado Salsa
 ---
 
 ### Source
-[Spontaneous Tomato](https://spontaneoustomato.com/2014/06/19/taqueria-style-creamy-avocado-salsa/)
+[Spontaneous Tomato](https://spontaneoustomato.com/2014/06/19/taqueria-style-creamy-avocado-salsa/) (but really credit to Cooper G. since he introduced this to me on my very last day working at Braintree.)
 
 ### Ingredients
 * 10 tomatillos, de-husked and rinsed well (buy a few extras, since it’s hard to tell if some are bad)

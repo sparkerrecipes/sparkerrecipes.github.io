@@ -12,7 +12,7 @@ _The leftovers are great for a stew or for sandwiches with Swiss cheese._
 * Spanish/Vidalia Onions, baby carrots, and yukon/golden/fingerling potatoes as desired.
 
 ### Steps
-__Make sure roast is frozen before cooking. Seriously. Frozen so solid that throwing it at someone would be considered felony assault.__
+__Make sure roast is frozen before cooking. Seriously.__
 
 1. Put frozen roast in roasting pan with cover.
 2. Sprinkle about 1-2 teaspoons of Lawry’s seasoning on top of frozen roast.

@@ -2,7 +2,6 @@
 title: Pan-Fried Chicken Thighs
 tags: main
 ---
-_I come from the land of fried chicken, and I will tell you my only two secrets. First, don't mess with the natural flavors of fresh chicken very much. Leave breading and other fanciful frying techniques for pork, frozen chicken, or if you want to serve gravy as well. Second, thighs are so much more flavorful and cheaper than chicken breasts. Breasts are for amateurs._
 
 ### Ingredients
 * As many bone-in skin-on chicken thighs as will fit in your skillet. For me, this is about six.
