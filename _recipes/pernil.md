@@ -3,7 +3,7 @@ tags: main slowcooker
 title: Slow-cooker Pernil
 ---
 
-_This goes very well over rice or as tacos. Either way, serve it with [cabbage slaw](http://forkingrecipes.com/sparker/recipes/quick-cabbage-slaw)._
+_This goes very well over rice or as tacos. Either way, serve it with [cabbage slaw](/recipes/quick-cabbage-slaw)._
 
 ### Source
 [Skinnytaste](http://www.skinnytaste.com/skinny-slow-cooked-pernil-puerto-rican/)
