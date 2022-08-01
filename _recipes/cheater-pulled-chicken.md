@@ -19,7 +19,7 @@ The wonderful book CHEATER BBQ by Mindy Merrell and R.B. Quinn
 * 2 tbsp sugar
 
 #### The Rest
-* 5 lbs of bone-in, skin-on chicken parts (preferably dark meat), trimmed of excess skin
+* 5 lbs of bone-in, skin-on chicken thighs, trimmed of excess skin
 * 1/2c bottled smoke
 
 ### Directions
