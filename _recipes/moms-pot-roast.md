@@ -7,7 +7,7 @@ _There are probably better pot roast recipes out there, but I haven't found one 
 ### Ingredients
 * 1 chuck roast – allow about .5 - .75 lbs per person.
 * Lawry’s seasoning salt
-* Yello onions, baby carrots, and yukon/golden/fingerling potatoes as desired.
+* Yellow onions, baby carrots, and yukon/golden/fingerling potatoes as desired.
 
 ### Steps
 __Make sure roast is frozen before cooking. Seriously.__
