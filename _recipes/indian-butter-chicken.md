@@ -22,7 +22,7 @@ Paleo Takes 5 or Fewer
 
 ### Directions
 1. Cut the chicken into large chunks
-1. In a cast-iron skillet, melt 2 tbsp of ghee over medium. Stir in the chicken and cook. Cook for 10 minutes on each side, turning pieces when they develop a golden color.
+1. In a large non-stick skillet, melt 2 tbsp of ghee over medium. Stir in the chicken and cook. Cook for 10 minutes on each side, turning pieces when they develop a golden color.
 1. Remove and set aside.
 1. Melt another tbsp of ghee and add the onions. Cook 10 minutes or until slightly translucent
 1. Add the coconut milk, garam masala, tomatoes, salt, and pepper. Stir and combine, cooking together for a few minutes.
