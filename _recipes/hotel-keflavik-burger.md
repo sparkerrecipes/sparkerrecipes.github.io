@@ -2,13 +2,9 @@
 tags: main
 ---
 
-_I was recently and unexpectedly in Iceland. I was treated to a cheeseburger made with several ingredients that, so far, seem very difficult to source here in the US._
+_I was recently and unexpectedly in Iceland. I was treated to the best cheeseburger of my life. If you find yourself in Keflavik, stop by Hotel Keflavik and try it._
 
-_It may haunt me for the rest of my days that it was the best burger of my life._
-
-_If you find yourself in Keflavik, stop by Hotel Keflavik and eat a cheeseburger._
-
-_Anyway, this is best approximation that I can think of with US ingredients._
+_This is the closest I can come to that with easily-sourced ingredients._
 
 ### Source
 [Hotel Keflavik](https://kef.is/kefrestaurant/)
@@ -17,12 +13,12 @@ _Anyway, this is best approximation that I can think of with US ingredients._
 * Arugulua
 * Tomato
 * Thinly-sliced cucumber
-* Fresh red onion
+* Thinly-sliced fresh red onion
 * Dijon mustard
-* Havarti cheese (a poor substitute for Maribo, the bold can [see this recipe](/recipes/maribo-cheese)
+* Havarti cheese (a substitute for Maribo, the bold can [see this recipe](/recipes/maribo-cheese))
 * bacon
 * black garlic /  mayo mixture
 
 
 ### Directions
-1. Put all that stuff on a burger. Cucumber, mayo, mustard, and bacon goes on the bottom. Everything else on top.
+1. Put all that stuff on a burger. Tomato, cucumber, mayo, and mustard goes on the bottom. Everything else on top.
