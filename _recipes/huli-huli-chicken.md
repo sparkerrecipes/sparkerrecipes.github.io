@@ -8,7 +8,7 @@ tags: main
 _pairs well with any kind of potatoes and [broccoli salad](/recipes/broccoli-salad)_
 
 ### Ingredients
-* 4-5 pounds bone-in skinless chicken thighs
+* 2-3 lbs boneless chicken thighs
 * ⅓ cup olive oil
 
 #### Spice Mix Ingredients
