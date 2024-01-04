@@ -29,7 +29,7 @@ A mishmash of [Simply Recipes](http://www.simplyrecipes.com/recipes/chicken_faji
 * pico de gallo
 
 ### Directions
-1. Combine marinade ingredients in large plastic bag with chicken. Seal and put into fridge for 30-90 minutes. (While it's marinating, this is a great time to make [pico de gallo](http://forkingrecipes.com/sparker/recipes/pico-de-gallo))
+1. Combine marinade ingredients in large plastic bag with chicken. Seal and put into fridge for 30-90 minutes. (While it's marinating, this is a great time to make [pico de gallo](/recipes/pico-de-gallo))
 2. Heat 1-2 tbsp of vegetable oil in cast-iron skillet and sear the chicken, 3-4 minutes per side.
 3. Remove the chicken from the skillet. Stack them and cover in aluminum foil.
 4. Add another tbsp of vegetable oil and the vegetables. Scrape up the chicken fat and give a good stir before letting sit for 3 minutes. Stir and let sit for another 3 minutes.
