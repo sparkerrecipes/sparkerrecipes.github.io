@@ -10,11 +10,13 @@ _pairs well with any kind of potatoes and [broccoli salad](/recipes/broccoli-sal
 ### Ingredients
 * 4-5 pounds bone-in skinless chicken thighs
 * ⅓ cup olive oil
+
 #### Spice Mix Ingredients
 * 1 1/2 teaspoons paprika
 * 1 tsp EACH ground ginger, onion pwdr, garlic pwdr, chili pwdr
 * 1/2 tsp EACH ground cumin, salt
 * 1/4 tsp EACH EACH pepper, cayenne pepper
+
 #### Sauce Ingredients
 * 1 cup canned pineapple juice*
 * 1/3 cup ketchup
