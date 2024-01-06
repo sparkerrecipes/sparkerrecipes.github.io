@@ -29,11 +29,14 @@ The amazing [My Heart Beets](https://myheartbeets.com/instant-pot-punjabi-chikar
 * ginger
 * Indian chiles
 
-### Directions
+### Directions - Dried Chickpeas
 0. If using dried chickpeads: place the dried chickpeas in a large bowl and cover with 2 inches of cold water for 8 hours. The chickpeas will absorb water and expand in size, so make sure to use a large bowl.
-0. Drain and rinse the beans. Add the chickpeas and 2c water (+½c of water if using canned chickpeas) to the instant pot. Cook for 35 minutes at high pressure.
+0. Drain and rinse the beans. Add the chickpeas and 2c water to the instant pot. Cook for 35 minutes at high pressure.
 0. Naturally release pressure.
-0. While waiting for the pressure to release, go ahead and roast the anardana powder by dry roasting it in a pan on the stovetop over medium heat. Stir frequently, cooking for 4-5 minutes.
+
+### Directions
+0. If using canned chickpeas, add them to a heatsafe bowl along with 1/4c of water. Stir.
+0. Roast the anardana powder by dry roasting it in a pan on the stovetop over medium heat. Stir frequently, cooking for 4-5 minutes.
 0. Add the roasted anardana to a bowl along with the rest of the spices and mix well.
 0. Open the lid and use a spoon to sprinkle the spices on top of the chickpeas (do not mix spices with chickpeas yet! Leave spices in a layer on top of the chickpeas).
 0. Heat ½ cup of oil on the stovetop and once hot, pour the oil over the spices on top of the chickpeas.
