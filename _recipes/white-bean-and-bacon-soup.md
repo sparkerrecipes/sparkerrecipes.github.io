@@ -11,7 +11,7 @@ _Yum! This is a hearty, savory soup. I make it all the time. We took it camping,
 * 1 qt chicken broth
 * 1 pt of cherry tomatoes
 * 1 medium onion
-* green onions to taste (I like several stalks, my wife likes it toned down)
+* 2-5 stalks of green onions
 * 3 cloves garlic 
 
 ### Steps
