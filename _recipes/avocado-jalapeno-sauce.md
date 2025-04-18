@@ -12,4 +12,4 @@ tags: appetizer
 * ½ teaspoon salt
 
 ### Directions
-1. Combine allingredients in a food processor and process until smooth
+1. Combine all ingredients in a food processor and process until smooth

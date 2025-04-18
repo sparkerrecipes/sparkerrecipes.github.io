@@ -2,6 +2,8 @@
 tags: main indian instantpot
 ---
 
+*Note* – you always think "I should double this, right?" No. This *is* doubled.
+
 ### Source
 The amazing [My Heart Beets](https://myheartbeets.com/instant-pot-chicken-biryani/#wprm-recipe-container-10602)
 
