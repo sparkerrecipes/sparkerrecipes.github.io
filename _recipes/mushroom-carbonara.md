@@ -1,5 +1,5 @@
 ---
-tags: pasta main weeknight
+tags: pasta main vegetarian
 ---
 
 ### Ingredients
