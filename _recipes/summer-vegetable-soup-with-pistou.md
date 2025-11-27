@@ -1,5 +1,5 @@
 ---
-tags: main vegetarian soup
+tags: main vegetarian soup one-dish
 ---
 
 ### Ingredients - Pistou

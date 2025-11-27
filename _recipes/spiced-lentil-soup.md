@@ -1,5 +1,5 @@
 ---
-tags: soup main vegetarian
+tags: soup main vegetarian one-dish
 ---
 
 ### Source

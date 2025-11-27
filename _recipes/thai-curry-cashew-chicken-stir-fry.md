@@ -1,5 +1,5 @@
 ---
-tags: main
+tags: main one-dish asian
 title: "Thai Curry Cashew Chicken Stir-Fry"
 ---
 

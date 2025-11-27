@@ -1,5 +1,5 @@
 ---
-tags: appetizer
+tags: appetizer mexican
 title: Cooper's Avocado Salsa
 ---
 

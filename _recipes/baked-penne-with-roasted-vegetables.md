@@ -1,5 +1,5 @@
 ---
-tags: pasta vegetarian
+tags: pasta vegetarian one-dish
 ---
 
 _The first vegetarian dish I regularly made._

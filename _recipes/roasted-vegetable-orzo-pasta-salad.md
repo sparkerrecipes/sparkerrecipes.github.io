@@ -1,5 +1,5 @@
 ---
-tags: side
+tags: side vegetarian
 ---
 
 ### Ingredients

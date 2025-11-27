@@ -1,5 +1,5 @@
 ---
-tags: main vegetarian
+tags: main vegetarian one-dish asian
 ---
 
 ### Ingredients - Dressing

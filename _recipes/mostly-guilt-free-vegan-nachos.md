@@ -1,5 +1,5 @@
 ---
-tags: main side appetizer
+tags: main vegetarian mexican
 ---
 ### Source
 [Love & Lemons](https://www.loveandlemons.com/nachos-recipe/)

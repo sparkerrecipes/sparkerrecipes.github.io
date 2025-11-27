@@ -1,5 +1,5 @@
 ---
-tags: appetizer
+tags: appetizer mexican
 ---
 ### Ingredients
 * 1 red onion

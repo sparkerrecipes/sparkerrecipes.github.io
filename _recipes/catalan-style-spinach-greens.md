@@ -1,5 +1,5 @@
 ---
-tags: side
+tags: side mediterranean
 title: Catalan-style Spinach (or other greens)
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: main
+tags: main asian
 ---
 
 ### Source

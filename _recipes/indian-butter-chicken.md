@@ -1,19 +1,27 @@
 ---
-tags: main
+tags: main asian
 ---
 
 ### Source
-Paleo Takes 5 or Fewer
+[Two Sleevers](https://twosleevers.com/instant-pot-butter-chicken/)
+
+maybe add a little white onion? follow your heart!
 
 ### Ingredients
-* 3tbsp of ghee
-* 1.5lbs boneless, skinless chicken thighs
-* 1 large yellow onion
-* 3/4 can coconut milk
-* 1.5 tsp garam masala
-* 1 can crushed tomatoes
-* salt
-* pepper
+* 1 14- ounce Canned Tomatoes
+* 5-6 cloves Garlic
+* 1-2 teaspoons Minced Ginger
+* 1 teaspoon Turmeric
+* 1/2 teaspoons Cayenne Pepper
+* 1 teaspoon Smoked Paprika
+* 1 teaspoon Kosher Salt
+* 1 teaspoon Garam Masala
+* 1 teaspoon Ground Cumin
+* 1 pound Boneless Skinless Chicken Thighs, (or use breast, bone-in, or whatever works for you. If frozen, add 1-2 minutes to total time)
+* 4 ounces butter cut into cubes, (use coconut oil if dairy free)
+* 4 ounces Heavy Cream, (use full-fat coconut milk if dairy free)
+* 1 teaspoon Garam Masala
+* 1/4-1/2 cup chopped cilantro
 
 ### Garnishes
 * green onion
@@ -21,10 +29,12 @@ Paleo Takes 5 or Fewer
 * chopped cilantro
 
 ### Directions
-1. Cut the chicken into large chunks
-1. In a large non-stick skillet, melt 2 tbsp of ghee over medium. Stir in the chicken and cook. Cook for 10 minutes on each side, turning pieces when they develop a golden color.
-1. Remove and set aside.
-1. Melt another tbsp of ghee and add the onions. Cook 10 minutes or until slightly translucent
-1. Add the coconut milk, garam masala, tomatoes, salt, and pepper. Stir and combine, cooking together for a few minutes.
-1. Add the cooked chicken and mix. Simmer for 15 minutes.
-1. Plate and garnish
+* Place all ingredients into an Instant Pot in the order listed, EXCEPT for the butter, cream and 1 teaspoon of the garam masala, mixing the sauce well before you place the chicken on top of the sauce. If it's frozen, push it into the sauce a bit so it defrosts better
+* Close the cooker and set for 10 mins on high, and let it release pressure naturally for 10 minutes. After that, release all remaining pressure. 
+* Open up the pot and remove the chicken carefully and set aside
+* Blend together all the ingredients, preferably using an immersion blender
+* Add the cut up butter, cream, cilantro, and garam masala and stir until well incorporated.
+* It's best to let the sauce cool just a little before adding the butter and the cream. Adding it into the boiling sauce will make your sauce very thin. If that happens, just put it in the fridge for a little and let it thicken up. It should be thick enough to coat the back of a spoon
+* Take out half the sauce and freeze for later or store in the fridge for 2-3 days
+* Add the chicken back in and heat through. Break it up into smaller pieces if you need but don't shred it.
+* Serve over rice, or zucchini noodles

@@ -1,5 +1,5 @@
 ---
-tags: instantpot main
+tags: instantpot main one-dish
 ---
 
 ### Source

@@ -1,5 +1,5 @@
 ---
-tags: soup main
+tags: soup main one-dish
 ---
 
 _Yum! This is a hearty, savory soup. I make it all the time. We took it camping, and it was the hit of our trip._

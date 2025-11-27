@@ -1,5 +1,5 @@
 ---
-tags: main indian instantpot
+tags: main indian instantpot one-dish
 ---
 
 *Note* – you always think "I should double this, right?" No. This *is* doubled.

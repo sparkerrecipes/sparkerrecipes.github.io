@@ -1,6 +1,6 @@
 ---
 title: Shinji's Chicken Soup
-tags: main soup
+tags: main soup one-dish
 ---
 
 _Just delightful. Serves an army and has a rich, subtle flavor. Don't skimp on the tomatillos - they're the heart of this dish._ 

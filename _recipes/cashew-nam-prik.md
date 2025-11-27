@@ -1,5 +1,5 @@
 ---
-tags: appetizer
+tags: appetizer asian
 ---
 
 ### Ingredients

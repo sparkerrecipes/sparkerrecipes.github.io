@@ -1,5 +1,5 @@
 ---
-tags: main soup
+tags: main soup one-dish mexican
 ---
 
 *This comes out a little more green than I think a traditional Pozole Soup should, but I have a thing for tomatillos. It will make a believer out of you.*

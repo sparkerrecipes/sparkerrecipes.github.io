@@ -1,5 +1,5 @@
 ---
-tags: main
+tags: main one-dish
 title: "Springfield-Style Cashew Chicken"
 ---
 

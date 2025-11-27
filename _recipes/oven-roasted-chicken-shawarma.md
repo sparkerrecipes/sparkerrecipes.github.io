@@ -1,5 +1,5 @@
 ---
-tags: main
+tags: main one-dish mediterranean
 title: Oven-Roasted Chicken Shawarma
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: main salad
+tags: main salad one-dish
 ---
 
 ### Source

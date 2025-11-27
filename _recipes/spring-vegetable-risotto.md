@@ -1,5 +1,5 @@
 ---
-tags: main vegetarian
+tags: main vegetarian one-dish
 ---
 
 [Source](https://thefirstmess.com/2025/03/26/green-orzo-risotto-vegan/)

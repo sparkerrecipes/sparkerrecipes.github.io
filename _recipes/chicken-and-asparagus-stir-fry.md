@@ -1,5 +1,5 @@
 ---
-tags: main
+tags: main one-dish asian
 ---
 ## Source
 [Skinnytaste](http://www.skinnytaste.com/chicken-and-asparagus-teriyaki-stir-fry/)

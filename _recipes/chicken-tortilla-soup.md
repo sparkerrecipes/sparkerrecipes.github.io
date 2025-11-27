@@ -1,5 +1,5 @@
 ---
-tags: soup
+tags: soup mexican
 ---
 
 ### Source

@@ -1,5 +1,5 @@
 ---
-tags: side salad
+tags: side
 ---
 
 ### Source

@@ -1,5 +1,5 @@
 ---
-tags: pasta main
+tags: pasta main one-dish
 ---
 ## Source
 Adapted from [Gimme Some Oven](http://www.gimmesomeoven.com/pasta-fresca/)

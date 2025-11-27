@@ -1,5 +1,5 @@
 ---
-tags: salad
+tags: salad main one-dish
 title: Rosemary Chicken, Bacon and Avocado Salad
 ---
 
