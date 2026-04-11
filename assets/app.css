@@ -5,10 +5,108 @@ small {
   margin-top: 10px;
 }
 
+/* List readability */
+#recipe-body ul,
+#recipe-body ol {
+  padding-left: 1.5rem;
+}
+
+#recipe-body li + li {
+  margin-top: 0.4em;
+}
+
+@media (max-width: 767px) {
+  #recipe-body ul,
+  #recipe-body ol {
+    padding-left: 1.25rem;
+  }
+
+  #recipe-body li + li {
+    margin-top: 0.25em;
+  }
+}
+
+/* Wake lock button */
+.wake-lock-btn {
+  display: block;
+  width: 100%;
+  margin-top: 1.25rem;
+  padding: 0.5em 1em;
+  font-size: 0.9em;
+  font-weight: 600;
+  cursor: pointer;
+  border: 2px solid #aaa;
+  border-radius: 6px;
+  background: #f0f0f0;
+  color: #444;
+  text-align: center;
+  line-height: 1.4;
+  transition: background 0.2s, border-color 0.2s, color 0.2s;
+}
+.wake-lock-btn:hover {
+  border-color: #888;
+  background: #e4e4e4;
+}
+.wake-lock-btn:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+.wake-lock-btn.active {
+  background: #d4edda;
+  border-color: #28a745;
+  color: #155724;
+}
+
+/* Widen the page container for two-column recipe layout */
+[role="main"].recipe-wide {
+  max-width: 90%;
+  width: 90%;
+}
+
+/* Two-column recipe layout */
+.recipe-columns {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  align-items: start;
+}
+
+.recipe-ingredients {
+  position: sticky;
+  top: var(--navbar-height, 1rem);
+  max-height: calc(100vh - var(--navbar-height, 1rem) - 1rem);
+  overflow-y: auto;
+}
+
+/* Single column on small screens */
+@media (max-width: 767px) {
+  [role="main"].recipe-wide {
+    max-width: 100%;
+    width: 100%;
+  }
+  .recipe-columns {
+    display: block;
+  }
+  .recipe-ingredients {
+    position: static;
+    max-height: none;
+  }
+}
+
 @media print {
 
   .blog-tags,
+  .wake-lock-btn,
   footer {
     display: none !important;
+  }
+
+  .recipe-columns {
+    display: block;
+  }
+
+  .recipe-ingredients {
+    position: static;
+    max-height: none;
   }
 }
