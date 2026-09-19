@@ -1,5 +1,10 @@
 ---
-tags: main one-dish fish
+tags: main seafood mediterranean
+pairings:
+  - "[Baked Rice with Leeks and Beans](/recipes/baked-rice-with-leeks-and-beans)"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
 ---
 
 ### Source

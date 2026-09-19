@@ -1,5 +1,10 @@
 ---
 tags: main mexican
+pairings:
+  - "[Pico De Gallo](/recipes/pico-de-gallo)"
+  - "[10-Minute Cantina Salsa](/recipes/10-minute-cantina-salsa)"
+  - "[Calabacitas](/recipes/calabacitas)"
+  - "[Cucumber Tomato Mexican Salad](/recipes/cucumber-tomato-mexican-salad)"
 ---
 
 ### Source
@@ -25,7 +30,7 @@ A mishmash of [Simply Recipes](http://www.simplyrecipes.com/recipes/chicken_faji
 
 ### Toppings
 * shredded lettuce
-* Crema Mexican or sour cream
+* Crema Mexicana or sour cream
 * pico de gallo
 
 ### Directions

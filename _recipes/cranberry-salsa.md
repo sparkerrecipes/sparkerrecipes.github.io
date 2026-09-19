@@ -1,5 +1,9 @@
 ---
-tags: appetizer
+tags: appetizer vegetarian fall
+pairings:
+  - "Spooned over cream cheese (dairy-free works) with crackers"
+  - "Roast turkey or [Slow-cooker Pernil](/recipes/pernil)"
+  - "[Smoked Salmon Spread](/recipes/smoked-salmon-spread) on the same appetizer board"
 ---
 
 ### Source

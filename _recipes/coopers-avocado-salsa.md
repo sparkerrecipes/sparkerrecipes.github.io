@@ -1,6 +1,11 @@
 ---
-tags: appetizer mexican
+tags: appetizer mexican vegetarian
 title: Cooper's Avocado Salsa
+pairings:
+  - "[Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
+  - "[Slow-cooker Pernil](/recipes/pernil)"
+  - "[Chicken Posole Soup](/recipes/chicken-posole-soup)"
+  - "[Sofritas](/recipes/sofritas)"
 ---
 
 ### Source

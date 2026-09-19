@@ -1,5 +1,9 @@
 ---
 tags: main asian one-dish
+pairings:
+  - "Steamed jasmine rice"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "Quick-pickled cucumbers"
 ---
 
 ### Source

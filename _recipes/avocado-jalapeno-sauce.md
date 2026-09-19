@@ -1,5 +1,10 @@
 ---
-tags: appetizer
+tags: sauce mexican
+pairings:
+  - "[Mexican Stuffed Sweet Potatoes](/recipes/mexican-stuffed-sweet-potatoes)"
+  - "[Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
+  - "[Sofritas](/recipes/sofritas)"
+  - "[Blackened Tilapia](/recipes/blackened-tilapia)"
 ---
 
 ### Ingredients

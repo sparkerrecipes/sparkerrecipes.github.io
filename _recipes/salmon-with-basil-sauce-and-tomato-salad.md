@@ -1,5 +1,9 @@
 ---
-tags: main fish
+tags: main seafood one-dish
+pairings:
+  - "Rice"
+  - "[Sautéed Zucchini](/recipes/sauteed-zucchini)"
+  - "[Lemony French Green Bean and Asparagus Salad](/recipes/lemony-french-green-bean-and-asparagus-salad)"
 ---
 
 Serve over rice.
@@ -29,7 +33,7 @@ Serve over rice.
 
 ### Ingredients - Tomato Salad
 * 1 1/2 cup halved cherry tomatoes
-* 2 ear sweet corn, cut off the cob
+* 2 ears sweet corn, cut off the cob
 * 1–2 cups fresh spinach or spring greens
 * 1 tablespoon olive oil
 * 2 tablespoons minced chives or parsley
@@ -40,4 +44,4 @@ Serve over rice.
 0. Prep the tomato salad by tossing all ingredients together.
 0. Preheat the oven to 425 degrees. Mix the spices in a small bowl and stir in the olive oil. Coat the salmon with the spice paste.
 0. Bake on a parchment-lined baking sheet for 9-12 minutes, or until 125-130 degrees in the thickest part. (It’s all personal preference, but this is the doneness that we like best – it’s a medium-done salmon.)
-0. Plate the salmon over the rice, serve with salad, and spoon the sauce over the top. Season with salt and pepp. Mwah!
+0. Plate the salmon over the rice, serve with salad, and spoon the sauce over the top. Season with salt and pepper. Mwah!

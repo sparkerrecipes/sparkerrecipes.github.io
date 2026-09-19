@@ -1,5 +1,9 @@
 ---
-tags: main soup one-dish mexican
+tags: main soup mexican one-dish
+pairings:
+  - "[Cooper's Avocado Salsa](/recipes/coopers-avocado-salsa) with tortilla chips or tostadas"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "[Cucumber Tomato Mexican Salad](/recipes/cucumber-tomato-mexican-salad)"
 ---
 
 *This comes out a little more green than I think a traditional Pozole Soup should, but I have a thing for tomatillos. It will make a believer out of you.*

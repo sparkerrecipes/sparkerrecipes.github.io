@@ -1,5 +1,10 @@
 ---
-tags: side vegetarian
+tags: side salad vegetarian fall
+pairings:
+  - "[Mushroom Carbonara](/recipes/mushroom-carbonara)"
+  - "[Fall Rotini Pasta](/recipes/fall-rotini-pasta)"
+  - "[Braised Chicken with Mushrooms](/recipes/braised-chicken-with-mushrooms)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
 ---
 
 

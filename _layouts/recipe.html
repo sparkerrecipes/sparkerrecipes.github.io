@@ -11,6 +11,17 @@ layout: page
 </div>
 {% endif %}
 
+{% if page.pairings and page.pairings.size > 0 %}
+<div class="recipe-pairings">
+  <span>Pairs well with:</span>
+  <ul>
+    {% for pairing in page.pairings %}
+    <li>{{ pairing | markdownify | remove: '<p>' | remove: '</p>' | strip }}</li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
+
 <div id="recipe-body">
   {{ content }}
 </div>

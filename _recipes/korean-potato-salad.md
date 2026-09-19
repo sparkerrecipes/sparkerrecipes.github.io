@@ -1,5 +1,10 @@
 ---
-tags: side vegetarian
+tags: side salad asian vegetarian
+pairings:
+  - "[Gochujang Chicken Stir Fry](/recipes/gochujang-chicken-stir-fry)"
+  - "[Huli Huli Chicken](/recipes/huli-huli-chicken)"
+  - "[Lemongrass Chicken](/recipes/lemongrass-chicken)"
+  - "[Hotel Keflavik Burger](/recipes/hotel-keflavik-burger)"
 ---
 
 ### Ingredients
@@ -14,7 +19,7 @@ tags: side vegetarian
 ### Instructions
 0. Make hard-boiled eggs - use your favorite method but I usually like to start cooking the egg in cold water on medium-high, bring to a boil, cover then turn heat off and leave for 10 minutes. When eggs are done, put them in ice water, peel them.
 0. Roughly chop cooked eggs into small pieces. If you want to garnish the top with egg yolk, set aside 1 egg yolk and leave it uncut.
-0. Peel potatoes and carrots. Cut potatoes into 3/4 inch thick discs then further into 1 inch or so squares. Cut carrots into 1/2 inch discs then cut the thicker parts into halves. Basically, you want the carrots to be about 1/2 the side of a potato.
+0. Peel potatoes and carrots. Cut potatoes into 3/4 inch thick discs then further into 1 inch or so squares. Cut carrots into 1/2 inch discs then cut the thicker parts into halves. Basically, you want the carrots to be about 1/2 the size of a potato.
 0. Add potatoes to a pot and add enough water to fully cover it and then some. Add about 1/8 tsp salt. Bring to a boil and then boil on medium heat for 8-9 minutes then add the carrots. Cook about 8 minutes more until the potatoes kind of crumble when cutting with a fork and the carrots should be just softly cooked but not mush.
 0. While potatoes are cooking, cut cucumbers into cubes.
 0. Cut the apple into cubes. For color, you can just core them and cut with peels on. But if your apple is not organic or is waxed, peel it and then cut into cubes.

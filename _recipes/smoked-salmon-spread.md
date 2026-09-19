@@ -1,5 +1,10 @@
 ---
-tags: appetizer
+tags: appetizer seafood
+pairings:
+  - "Seed crackers or cucumber rounds"
+  - "[It's Finally Spring Cocktail](/recipes/its-finally-spring-cocktail)"
+  - "[Dill Ranch Oyster Crackers](/recipes/dill-ranch-oyster-crackers)"
+  - "[Bacon Wrapped Water Chestnuts](/recipes/bacon-wrapped-water-chestnuts)"
 ---
 
 _When I'm running late to an event, this and some fancy crackers are a fast, surefire hit_

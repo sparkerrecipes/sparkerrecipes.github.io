@@ -1,5 +1,10 @@
 ---
-tags: main
+tags: main mediterranean
+pairings:
+  - "[Baked Rice with Leeks and Beans](/recipes/baked-rice-with-leeks-and-beans)"
+  - "[Charred Cabbage in Tomatoes](/recipes/charred-cabbage-in-tomatoes)"
+  - "[Green Beans with Tahini Sbagliato](/recipes/green-beans-with-tahini-sbagliato)"
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh)"
 ---
 
 ### Source

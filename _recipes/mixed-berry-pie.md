@@ -1,5 +1,9 @@
 ---
 tags: dessert
+pairings:
+  - "[Vodka Pie Crust](/recipes/vodka-pie-crust)"
+  - "[Brown Sugar Whipped Cream](/recipes/brown-sugar-whipped-cream)"
+  - "Vanilla ice cream (a coconut-based one works well)"
 ---
 
 ### Ingredients

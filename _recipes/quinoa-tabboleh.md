@@ -1,5 +1,11 @@
 ---
-tags: side mediterranean vegetarian
+tags: side salad mediterranean vegetarian
+title: Quinoa Tabbouleh
+pairings:
+  - "[Mediterranean Chicken Kabobs](/recipes/mediterranean-chicken-kabobs)"
+  - "[Oven-Roasted Chicken Shawarma](/recipes/oven-roasted-chicken-shawarma)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Sheet Pan Souvlaki Skewers and Fries](/recipes/sheet-pan-souvlaki-skewers-and-fries)"
 ---
 
 ### Source

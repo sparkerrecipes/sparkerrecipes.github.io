@@ -1,5 +1,10 @@
 ---
 tags: side mediterranean vegetarian
+pairings:
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Lemon Paprika Chicken](/recipes/lemon-paprika-chicken)"
+  - "[Catalan-style Spinach (or other greens)](/recipes/catalan-style-spinach-greens)"
 ---
 
 inspired by prasorizo

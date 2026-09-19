@@ -1,5 +1,9 @@
 ---
-tags: main salad vegetarian
+tags: main salad vegetarian one-dish fall
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Spiced Lentil Soup](/recipes/spiced-lentil-soup)"
 ---
 
 ### Source

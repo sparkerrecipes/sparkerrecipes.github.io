@@ -26,6 +26,21 @@ small {
   }
 }
 
+/* Pairing suggestions */
+.recipe-pairings {
+  margin: 0.75rem 0 1.25rem;
+  font-size: 0.9em;
+}
+
+.recipe-pairings span {
+  font-weight: 600;
+}
+
+.recipe-pairings ul {
+  margin: 0.25rem 0 0;
+  padding-left: 1.5rem;
+}
+
 /* Wake lock button */
 .wake-lock-btn {
   display: block;
@@ -96,6 +111,7 @@ small {
 @media print {
 
   .blog-tags,
+  .recipe-pairings,
   .wake-lock-btn,
   footer {
     display: none !important;

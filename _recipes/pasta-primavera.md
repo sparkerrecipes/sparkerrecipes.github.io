@@ -1,5 +1,9 @@
 ---
-tags: pasta main one-dish vegetarian
+tags: main pasta vegetarian one-dish
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
 ---
 ## Source
 [Love & Lemons](https://www.loveandlemons.com/pasta-primavera/#wprm-recipe-container-63997)

@@ -1,5 +1,10 @@
 ---
 tags: main
+pairings:
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "[Lemony French Green Bean and Asparagus Salad](/recipes/lemony-french-green-bean-and-asparagus-salad)"
+  - "[Honey Dijon Roasted Parsnips](/recipes/honey-dijon-roasted-parsnips)"
+  - "Polenta or rice to catch the sauce"
 ---
 
 ### Source

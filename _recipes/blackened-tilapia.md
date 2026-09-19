@@ -1,5 +1,10 @@
 ---
-tags: main fish
+tags: main seafood
+pairings:
+  - "[Calabacitas](/recipes/calabacitas)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "[Avocado-Jalapeño Sauce](/recipes/avocado-jalapeno-sauce)"
+  - "[Cucumber Tomato Mexican Salad](/recipes/cucumber-tomato-mexican-salad)"
 ---
 
 ### Ingredients

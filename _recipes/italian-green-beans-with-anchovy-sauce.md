@@ -1,5 +1,10 @@
 ---
 tags: side mediterranean
+pairings:
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Barramundi with Puttanesca Sauce](/recipes/barramundi-with-puttanesca-sauce)"
+  - "[Spicy Tomato and Sausage Pasta](/recipes/spicy-tomato-and-sausage-pasta)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
 ---
 
 aka Fagiolini alla Genovese

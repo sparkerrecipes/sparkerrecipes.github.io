@@ -1,5 +1,9 @@
 ---
-tags: soup mexican
+tags: main soup mexican one-dish
+pairings:
+  - "[Cooper's Avocado Salsa](/recipes/coopers-avocado-salsa) with tortilla chips"
+  - "[Cucumber Tomato Mexican Salad](/recipes/cucumber-tomato-mexican-salad)"
+  - "[Pico De Gallo](/recipes/pico-de-gallo)"
 ---
 
 ### Source
@@ -30,9 +34,9 @@ Minor tweaks from [Serious Eats Real Deal Chicken Tortilla Soup](http://www.seri
 ## Instructions
 0. Scrape the corn off the cobs into a small bowl, reserving the cobs. Split one of the onions and peel the skin off two garlic cloves.
 0. Place stock, chicken, split onion, cobs, 2 whole cloves, and the ancho chile powder in a large saucepan and cover. Boil over high heat, then reduce to a simmer for 30 minutes. When finished, discard the onion, cobs, and garlic cloves. Transfer the chicken to a plate to cool and set the chile stock aside.
-0. Pre-heat broiler to high and split the tomatoes in half. On a foil lined pan, broil the tomatoes cut side-up for 15 minute minutes, about 4 inches from the heat.
+0. Pre-heat broiler to high and split the tomatoes in half. On a foil lined pan, broil the tomatoes cut side-up for 15 minutes, about 4 inches from the heat.
 0. Combine the tomatoes and enough stock to cover them in a blender. Blend until smooth, then add back to the stock.
 0. Shred the chicken.
-0. Heat 2 tbsp of vegetable oil in a large, deep skillet. Add the corn, diced onion, and diced poblano. Season with a little alt & pepper and saute until the onions just soften but nothing has browned, about 5 minutes. Add the minced garlic and cook another 30 seconds.
-0. Add the vegetables to the stock alone with the cumin, oregano, beans, cilantro, and more salt & pepper. Add the chicken once shredded.
+0. Heat 2 tbsp of vegetable oil in a large, deep skillet. Add the corn, diced onion, and diced poblano. Season with a little salt & pepper and saute until the onions just soften but nothing has browned, about 5 minutes. Add the minced garlic and cook another 30 seconds.
+0. Add the vegetables to the stock along with the cumin, oregano, beans, cilantro, and more salt & pepper. Add the chicken once shredded.
 0. Bring to a simmer and add the corn meal. Cook for another 10 minutes while you prepare the garnishes.

@@ -1,5 +1,9 @@
 ---
-tags: main
+tags: main seafood
+pairings:
+  - "Creamy polenta, grits, or rice"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "A cold lager or dry rosé"
 ---
 
 Serve over polenta.

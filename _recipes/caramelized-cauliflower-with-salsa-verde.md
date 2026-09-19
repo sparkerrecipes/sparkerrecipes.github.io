@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side vegetarian
+pairings:
+  - "[Blackened Tilapia](/recipes/blackened-tilapia)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Slow-cooker Pernil](/recipes/pernil)"
+  - "[Crispy Chicken with Lime Butter](/recipes/crispy-chicken-with-lime-butter)"
 ---
 
 ### Source
@@ -10,7 +15,7 @@ A Homemade Life
 ##### Salsa Verde
 * 1 jalapeno, finely chopped with seeds removed
 * 3 tbsp finely chopped cilantro
-* 2 cloves garlics, minced
+* 2 cloves garlic, minced
 * 3 tbsp fresh lime juice
 * 4 tbsp olive oil
 

@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side vegetarian
+pairings:
+  - "[Hotel Keflavik Burger](/recipes/hotel-keflavik-burger)"
+  - "[Huli Huli Chicken](/recipes/huli-huli-chicken)"
+  - "[Mom's BBQ Chicken](/recipes/moms-bbq-chicken)"
+  - "[Grilled Hot Wings](/recipes/grilled-hot-wings)"
 ---
 
 ### Source

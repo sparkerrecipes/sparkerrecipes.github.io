@@ -1,5 +1,10 @@
 ---
-tags: appetizer
+tags: appetizer vegetarian
+pairings:
+  - "[White Bean and Bacon Soup](/recipes/white-bean-and-bacon-soup)"
+  - "[Instant Pot Chili](/recipes/instant-pot-chili)"
+  - "[Caramelized Onion Dip](/recipes/caramelized-onion-dip)"
+  - "Cold beer"
 ---
 
 ### Source

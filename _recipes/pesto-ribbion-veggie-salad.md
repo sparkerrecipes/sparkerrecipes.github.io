@@ -1,5 +1,11 @@
 ---
-tags: side vegetarian
+tags: side salad vegetarian
+title: Pesto Ribbon Veggie Salad
+pairings:
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Spicy Tomato and Sausage Pasta](/recipes/spicy-tomato-and-sausage-pasta)"
 ---
 
 ### Source
@@ -21,4 +27,4 @@ tags: side vegetarian
 ### Directions
 1. Put the nuts in a small dry skillet and cook over medium heat until lightly toasted, about 3 minutes; transfer to a plate to cool.
 1. Combine the nuts, basil, parsley, garlic and 1/4 teaspoon salt in a food processor and pulse until very finely ground. With the motor running, gradually add the olive oil and process until well combined.
-1. Use a mandolin to slice the vegetables into ribbons. Toss the vegetable ribbons together in a bowl. Add enough pesto to your liking, then add the lemon juice and Parmesan and toss to combine. Serve immediately.
+1. Use a mandoline to slice the vegetables into ribbons. Toss the vegetable ribbons together in a bowl. Add enough pesto to your liking, then add the lemon juice and Parmesan and toss to combine. Serve immediately.

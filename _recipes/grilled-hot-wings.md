@@ -1,5 +1,10 @@
 ---
 tags: appetizer
+pairings:
+  - "[Caramelized Onion Dip](/recipes/caramelized-onion-dip) with celery and carrots"
+  - "[Lemon Pepper Chicken Wings](/recipes/lemon-pepper-chicken-wings)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw) or [Jalapeño Coleslaw](/recipes/jalapeno-coleslaw)"
+  - "[Seasoned Yukon Gold Wedges](/recipes/seasoned-yukon-gold-wedges)"
 ---
 
 _Most wing recipes call for grilling, finishing in the oven, and only then pouring sauce over. That's great if you like a really hot sauce, but I like something more flavorful than truly hot. I make this for special occasions - people seem to love it_

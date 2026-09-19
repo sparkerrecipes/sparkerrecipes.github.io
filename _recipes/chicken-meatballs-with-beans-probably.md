@@ -1,5 +1,9 @@
 ---
 tags: main one-dish
+pairings:
+  - "Steamed jasmine rice"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "[Easy Fried Rice](/recipes/easy-fried-rice)"
 ---
 
 

@@ -1,5 +1,10 @@
 ---
-tags: main indian
+tags: main indian vegetarian
+pairings:
+  - "Basmati rice"
+  - "[Instant Pot Punjabi Chikar Cholay](/recipes/instant-pot-punjabi-chikar-cholay)"
+  - "[Green Chutney Chicken](/recipes/green-chutney-chicken)"
+  - "[Indian Butter Chicken](/recipes/indian-butter-chicken)"
 ---
 
 ### Source

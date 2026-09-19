@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side salad mediterranean vegetarian
+pairings:
+  - "[Mediterranean Chicken Kabobs](/recipes/mediterranean-chicken-kabobs)"
+  - "[Oven-Roasted Chicken Shawarma](/recipes/oven-roasted-chicken-shawarma)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Spiced Lentil Soup](/recipes/spiced-lentil-soup)"
 ---
 
 ### Ingredients - Salad

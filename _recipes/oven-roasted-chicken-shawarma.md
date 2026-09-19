@@ -1,10 +1,15 @@
 ---
-tags: main one-dish mediterranean
+tags: main mediterranean one-dish
 title: Oven-Roasted Chicken Shawarma
+pairings:
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh)"
+  - "[Cauliflower Salad](/recipes/cauliflower-salad)"
+  - "[Smashed Zucchini with Za'atar and Labneh](/recipes/smashed-zucchini-with-zaatar-and-labneh)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
 ---
 
 ### Source
-From [cooking.nytimes.com](cooking.nytimes.com) but really from Jason.
+From [cooking.nytimes.com](https://cooking.nytimes.com) but really from Jason.
 
 ### Ingredients
 
@@ -22,12 +27,12 @@ From [cooking.nytimes.com](cooking.nytimes.com) but really from Jason.
 * 6 pounds boneless, skinless chicken thighs
 
 #### Roast
-* 3 large red onion, peeled and quartered
+* 3 large red onions, peeled and quartered
 * 6 tablespoons chopped fresh parsley
 
 #### Toppings
 
-_just pick a few, don’t go crazy)_
+_(just pick a few, don’t go crazy)_
 
 * parsley
 * tomatoes
@@ -52,7 +57,7 @@ _just pick a few, don’t go crazy)_
 
 #### Ingredients
 
-* 24oz container of greek yogurt
+* 24oz container of Greek yogurt
 * 1 shallot, diced
 * juice of 1 lemon
 

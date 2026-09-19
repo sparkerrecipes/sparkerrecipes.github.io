@@ -1,5 +1,10 @@
 ---
 tags: main
+pairings:
+  - "[Broccoli Salad](/recipes/broccoli-salad) or [Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
+  - "[Seasoned Yukon Gold Wedges](/recipes/seasoned-yukon-gold-wedges)"
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "Grilled pineapple and rice"
 ---
 
 ### Source
@@ -15,7 +20,7 @@ _pairs well with any kind of potatoes and [broccoli salad](/recipes/broccoli-sal
 * 1 1/2 teaspoons paprika
 * 1 tsp EACH ground ginger, onion pwdr, garlic pwdr, chili pwdr
 * 1/2 tsp EACH ground cumin, salt
-* 1/4 tsp EACH EACH pepper, cayenne pepper
+* 1/4 tsp EACH pepper, cayenne pepper
 
 #### Sauce Ingredients
 * 1 cup canned pineapple juice*
@@ -39,6 +44,6 @@ _pairs well with any kind of potatoes and [broccoli salad](/recipes/broccoli-sal
 0. Slather cooked chicken with glaze and garnish with green onions if desired. Serve with remaining sauce.
 
 #### Oven
-0. Preheat oven to 350 degrees F. Heat one tablespoon olive oil over medium-high heat. Add chicken (you will need to work in batches), and sear 2-3 0. minutes per side.
+0. Preheat oven to 350 degrees F. Heat one tablespoon olive oil over medium-high heat. Add chicken (you will need to work in batches), and sear 2-3 minutes per side.
 0. Add chicken to a foil lined, greased 9×13 pan (for easy cleanup), Cover with foil, and bake for 30 minutes. Remove foil, baste with ¼c reserved marinade and continue to cook, uncovered an additional 15-20 minutes.
 0. Slather cooked chicken with glaze and garnish with green onions if desired. Serve with remaining sauce.

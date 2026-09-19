@@ -1,5 +1,10 @@
 ---
 tags: main slowcooker
+pairings:
+  - "[Nashville-Style BBQ Sauce](/recipes/nashville-style-bbq-sauce)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw) or [Jalapeño Coleslaw](/recipes/jalapeno-coleslaw)"
+  - "[Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
+  - "[Seasoned Yukon Gold Wedges](/recipes/seasoned-yukon-gold-wedges)"
 ---
 
 ### Source

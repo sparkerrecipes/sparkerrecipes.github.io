@@ -1,5 +1,10 @@
 ---
-tags: lunch side
+tags: side salad pasta vegetarian
+pairings:
+  - "[Mom's BBQ Chicken](/recipes/moms-bbq-chicken)"
+  - "[Hotel Keflavik Burger](/recipes/hotel-keflavik-burger)"
+  - "[Cheater Pulled Chicken](/recipes/cheater-pulled-chicken)"
+  - "[Grilled Hot Wings](/recipes/grilled-hot-wings)"
 ---
 
 _This makes a giant portion, but thankfully it is delicious. It's really nothing special, but David asked me to post it, and I like David._

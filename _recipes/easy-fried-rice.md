@@ -1,5 +1,10 @@
 ---
-tags: main side
+tags: main side asian vegetarian
+pairings:
+  - "[Instant Pot Orange Chicken](/recipes/instant-pot-orange-chicken)"
+  - "[Chicken and Asparagus Stir Fry](/recipes/chicken-and-asparagus-stir-fry)"
+  - "[Lemongrass Chicken](/recipes/lemongrass-chicken)"
+  - "[Springfield-Style Cashew Chicken](/recipes/springfield-style-cashew-chicken)"
 ---
 
 ### Source

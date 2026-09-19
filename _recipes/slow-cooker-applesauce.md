@@ -1,5 +1,10 @@
 ---
-tags: side slowcooker
+tags: side vegetarian slowcooker fall
+pairings:
+  - "[Slow-cooker Pernil](/recipes/pernil)"
+  - "[Mom's Pot Roast](/recipes/moms-pot-roast)"
+  - "[Sweet Potato Hash with Sausage](/recipes/sweet-potato-hash-with-sausage)"
+  - "[Farro Hash](/recipes/farro-hash)"
 ---
 
 _Making pork? Make this. I suppose you can make in advance and chill like traditional applesauce, but it was mind-blowing when served hot._

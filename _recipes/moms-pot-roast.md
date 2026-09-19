@@ -1,6 +1,10 @@
 ---
 title: Mom's Pot Roast
-tags: main
+tags: main one-dish
+pairings:
+  - "[Honey Dijon Roasted Parsnips](/recipes/honey-dijon-roasted-parsnips)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Lemony French Green Bean and Asparagus Salad](/recipes/lemony-french-green-bean-and-asparagus-salad)"
 ---
 _There are probably better pot roast recipes out there, but I haven't found one that maximizes the "flavor to work" ratio like this. It makes a whole lot of tasty food with almost no effort. That's probably why it became a tradition in our household growing up._
 

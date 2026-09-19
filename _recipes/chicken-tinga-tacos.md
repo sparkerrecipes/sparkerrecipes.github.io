@@ -1,5 +1,10 @@
 ---
-tags: main mexican
+tags: main mexican slowcooker instantpot
+pairings:
+  - "[Calabacitas](/recipes/calabacitas)"
+  - "[Cucumber Tomato Mexican Salad](/recipes/cucumber-tomato-mexican-salad)"
+  - "[10-Minute Cantina Salsa](/recipes/10-minute-cantina-salsa)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
 ---
 
 ### Source
@@ -37,4 +42,3 @@ tags: main mexican
 ### Directions - Crema
 1. Combine all ingredients in a blender and blend until smooth and creamy. Season with salt.
 2. Serve the tacos topped with avocado, lettuce, limes, and any other desired toppings.
-Instant Pot

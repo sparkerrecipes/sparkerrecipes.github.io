@@ -1,5 +1,9 @@
 ---
-tags: main one-dish fish
+tags: main seafood one-dish
+pairings:
+  - "Jasmine or basmati rice"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "[Bhindi Masala](/recipes/bhindi-masala)"
 ---
 
 ### Source

@@ -1,5 +1,9 @@
 ---
-tags: main one-dish asian
+tags: main asian one-dish
+pairings:
+  - "Steamed jasmine rice"
+  - "[Easy Fried Rice](/recipes/easy-fried-rice)"
+  - "Smashed cucumber salad"
 ---
 ## Source
 [Skinnytaste](http://www.skinnytaste.com/chicken-and-asparagus-teriyaki-stir-fry/)
@@ -20,7 +24,7 @@ tags: main one-dish asian
 * kosher salt
 
 ## Directions
-1. Combine sauce ingredients in small bowl. Whish and set aside.
+1. Combine sauce ingredients in small bowl. Whisk and set aside.
 2. Heat a skillet over medium hot. Add the oil, and then add the asparagus and cook for 6 minutes until crisp. Add garlic and cook until golden. Set aside.
 3. In that same skillet, add 2 tsp oil and the chicken. Cook until browned, about 6 minutes.
 4. Place everything back into the skillet. Add sauce, cook for 1 minute until sauce thickens.

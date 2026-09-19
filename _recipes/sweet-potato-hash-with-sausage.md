@@ -1,5 +1,9 @@
 ---
 tags: breakfast
+pairings:
+  - "[Biscuits](/recipes/biscuits)"
+  - "[Slow Cooker Applesauce](/recipes/slow-cooker-applesauce)"
+  - "Lightly dressed arugula or fresh fruit"
 ---
 
 ### Source
@@ -26,7 +30,7 @@ tags: breakfast
 1. Roast until the sweet potatoes are soft and browned, 30 to 45 minutes (roasting time depends on the size and uniformity of the sweet potato chunks, as well as the variety of sweet potato you buy). After this, you can either refrigerate the hash in an airtight container overnight or finish the hash now.
 
 #### To continue cooking immediately:
-1. To continue cooking immediately, lower the oven temperature to 425°F. Using the back of a large spoon, make 8 eight wells (or however many eggs you desire) in the hash. Crack an egg into each well. Season the eggs with salt and pepper. Bake until the eggs are done to your liking, 8 to 10 minutes. Test the eggs by prodding them with a fork to check the firmness of the white and the yolk; baked eggs are deceptive in that the white often looks much less cooked than it really is.
+1. To continue cooking immediately, lower the oven temperature to 425°F. Using the back of a large spoon, make 8 wells (or however many eggs you desire) in the hash. Crack an egg into each well. Season the eggs with salt and pepper. Bake until the eggs are done to your liking, 8 to 10 minutes. Test the eggs by prodding them with a fork to check the firmness of the white and the yolk; baked eggs are deceptive in that the white often looks much less cooked than it really is.
 1. Serve immediately, with shavings or sprinkles of Parmesan cheese, if desired.
 
 #### To serve later:

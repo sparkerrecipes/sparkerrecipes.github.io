@@ -1,5 +1,9 @@
 ---
 tags: dessert
+pairings:
+  - "[Strawberry Rhubarb Pie](/recipes/strawberry-rhubarb-pie)"
+  - "[Mixed Berry Pie](/recipes/mixed-berry-pie)"
+  - "[Bourbon Pecan Pie](/recipes/bourbon-pecan-pie)"
 ---
 
 Source: [Cooks Illustrated via Serious Eats](https://www.seriouseats.com/cooks-illustrated-foolproof-pie-dough-recipe)

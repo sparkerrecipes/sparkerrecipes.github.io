@@ -1,11 +1,15 @@
 ---
-tags: main asian one-dish
+tags: main asian vegetarian one-dish
+pairings:
+  - "[Cashew Nam Prik](/recipes/cashew-nam-prik) to start"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "[Brussels Sprout Salad](/recipes/brussel-sprout-salad)"
 ---
 
 ### Source
 [Cookie + Kate](https://cookieandkate.com/thai-panang-curry-recipe/)
 
-## Crispy Tofu Ingredients
+### Crispy Tofu Ingredients
 * 1 package of extra-firm tofu
 * 1 tablespoon extra-virgin olive oil
 * 1 tablespoon tamari or soy sauce

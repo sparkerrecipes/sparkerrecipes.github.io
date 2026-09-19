@@ -1,5 +1,9 @@
 ---
-tags: main vegetarian
+tags: main pasta vegetarian
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Blanched Asparagus Salad](/recipes/blanched-asparagus-salad)"
 ---
 
 Note: simple cooked chicken breast is a great addition to this meal.

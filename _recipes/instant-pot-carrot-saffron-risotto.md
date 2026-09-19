@@ -1,5 +1,10 @@
 ---
-tags: side instantpot vegetarian
+tags: side vegetarian instantpot
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Crispy Chicken with Lime Butter](/recipes/crispy-chicken-with-lime-butter)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
 ---
 
 ### Source

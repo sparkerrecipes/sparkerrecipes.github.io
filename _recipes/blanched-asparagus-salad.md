@@ -1,5 +1,9 @@
 ---
-tags: side
+tags: side salad vegetarian
+pairings:
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Lemon Paprika Chicken](/recipes/lemon-paprika-chicken)"
+  - "[Crispy Chicken with Lime Butter](/recipes/crispy-chicken-with-lime-butter)"
 ---
 
 [Source](https://www.loveandlemons.com/asparagus-salad-recipe/#wprm-recipe-container-56429)
@@ -29,6 +33,6 @@ tags: side
 
 ### Instructions
 0. Start a deep pot of salted water boiling.
-Make the dressing. Combine the avocado, water, olive oil, lemon juice, dill, garlic, salt, and several grinds of pepper in a blender. Blend until creamy, then transfer to a jar. If the dressing is too thick, stir in a little more water to reach a drizzelable consistency, if desired.
+0. Make the dressing. Combine the avocado, water, olive oil, lemon juice, dill, garlic, salt, and several grinds of pepper in a blender. Blend until creamy, then transfer to a jar. If the dressing is too thick, stir in a little more water to reach a drizzleable consistency, if desired.
 0. Set a bowl of ice water nearby. Drop the asparagus into the boiling water and blanch for about 1 minute, until tender but still bright green. Transfer to the ice water for 1 minute, then drain. Transfer the asparagus to a kitchen towel to dry and wipe out the bowl.
 0. At the bottom of the bowl, combine the olive oil, lemon juice, garlic, salt, and pepper. Add the asparagus and peas and toss until coated. Transfer to a platter, drizzle with the avocado dressing, top with feta, radishes, pine nuts, and mint or basil.

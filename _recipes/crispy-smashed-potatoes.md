@@ -1,5 +1,10 @@
 ---
 tags: side vegetarian
+pairings:
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Braised Chicken with Mushrooms](/recipes/braised-chicken-with-mushrooms)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Mom's BBQ Chicken](/recipes/moms-bbq-chicken)"
 ---
 
 ### Source

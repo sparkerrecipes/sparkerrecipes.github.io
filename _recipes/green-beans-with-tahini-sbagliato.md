@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side vegetarian
+pairings:
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Lemon Paprika Chicken](/recipes/lemon-paprika-chicken)"
+  - "[Baked Salmon with Red Pepper Paste](/recipes/baked-salmon-with-red-pepper-paste)"
+  - "[Mediterranean Chicken Kabobs](/recipes/mediterranean-chicken-kabobs)"
 ---
 
 ### Source

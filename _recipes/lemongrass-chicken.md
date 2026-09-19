@@ -1,5 +1,10 @@
 ---
-tags: main
+tags: main asian
+pairings:
+  - "Steamed jasmine rice"
+  - "[Brussels Sprout Salad](/recipes/brussel-sprout-salad)"
+  - "[Gochujang Carrots and Parsnips](/recipes/gochujang-carrots-and-parsnips)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
 ---
 
 ### Source

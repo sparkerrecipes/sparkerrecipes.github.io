@@ -1,5 +1,10 @@
 ---
-tags: main
+tags: main seafood
+pairings:
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "[Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "[Sautéed Zucchini](/recipes/sauteed-zucchini)"
 ---
 
 ### Source
@@ -18,6 +23,6 @@ tags: main
 * ⅛ teaspoon ground cumin
 
 ### Directions
-* Preheat the over to 400. Line a sheet pan with parchment paper and brush lightly with oil.
+* Preheat the oven to 400. Line a sheet pan with parchment paper and brush lightly with oil.
 * Drizzle salmon with olive oil, then apply dry rub to the top.
 * Bake for 15 minutes.

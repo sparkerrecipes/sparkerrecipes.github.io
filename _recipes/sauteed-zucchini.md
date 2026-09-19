@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side vegetarian
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Blackened Tilapia](/recipes/blackened-tilapia)"
+  - "[Spicy Tomato and Sausage Pasta](/recipes/spicy-tomato-and-sausage-pasta)"
 ---
 
 ### Source

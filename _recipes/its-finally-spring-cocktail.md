@@ -1,8 +1,12 @@
 ---
 tags: cocktail
+pairings:
+  - "[Smoked Salmon Spread](/recipes/smoked-salmon-spread)"
+  - "[Cashew Nam Prik](/recipes/cashew-nam-prik)"
+  - "[Bacon Wrapped Water Chestnuts](/recipes/bacon-wrapped-water-chestnuts)"
 ---
 
-_Perhaps my favorite cocktail. This is our best recreation of the ""It's Finally Spring"" cocktail from the restaurant SOLA here in Chicago (RIP)._
+_Perhaps my favorite cocktail. This is our best recreation of the "It's Finally Spring" cocktail from the restaurant SOLA here in Chicago (RIP)._
 
 ### Ingredients
 * 2 oz gin, the nicest you can find.

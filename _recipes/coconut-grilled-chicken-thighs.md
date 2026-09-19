@@ -1,5 +1,10 @@
 ---
-tags: main
+tags: main asian
+pairings:
+  - "Coconut or jasmine rice"
+  - "[Brussels Sprout Salad](/recipes/brussel-sprout-salad)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "[Cashew Nam Prik](/recipes/cashew-nam-prik)"
 ---
 
 ### Source

@@ -1,9 +1,13 @@
 ---
-tags: main one-dish
+tags: main asian one-dish
 title: "Springfield-Style Cashew Chicken"
+pairings:
+  - "[Easy Fried Rice](/recipes/easy-fried-rice) or steamed rice"
+  - "[Brussels Sprout Salad](/recipes/brussel-sprout-salad)"
+  - "Steamed broccoli"
 ---
 
-_this dish basically **is** home to me__
+_this dish basically **is** home to me_
 
 ### Source
 [417 Magazine](https://www.417mag.com/recipes/springfield-style-cashew-chicken/)

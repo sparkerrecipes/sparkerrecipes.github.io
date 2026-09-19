@@ -1,8 +1,12 @@
 ---
-tags: dessert
+tags: dessert fall
+pairings:
+  - "[Vodka Pie Crust](/recipes/vodka-pie-crust)"
+  - "[Brown Sugar Whipped Cream](/recipes/brown-sugar-whipped-cream)"
+  - "A small pour of the same bourbon"
 ---
 
-## Ingredients
+### Ingredients
 * 3 eggs, lightly beaten
 * heaping 1/2c brown sugar
 * ½c light corn syrup

@@ -1,5 +1,8 @@
 ---
-tags: dessert
+tags: dessert fall
+pairings:
+  - "[Brown Sugar Whipped Cream](/recipes/brown-sugar-whipped-cream)"
+  - "Vanilla ice cream (a coconut-based one works well)"
 ---
 
 ### Source
@@ -9,7 +12,7 @@ tags: dessert
 * 1 ½ cups (213 g) unbleached all-purpose flour
 * ¼ teaspoon salt
 * 2 teaspoons granulated sugar
-* 10 tablespoons (142) salted butter, frozen
+* 10 tablespoons (142 g) salted butter, frozen
 * ½ cup (113 g) sour cream, not lowfat or light, plus an additional tablespoon or three if needed
 
 ### Ingredients - Pie
@@ -30,7 +33,7 @@ tags: dessert
 0. Using the large holes of a box grater, grate the butter into the dry ingredients.
 0. With a fork, toss the butter and flour mixture until the butter pieces are all evenly coated with flour. Don’t break down the butter pieces in this step, just lightly toss until they are coated with flour.
 0. Spoon the sour cream into the bowl. Using the same fork, mix the sour cream into the butter/flour mixture by pressing the fork down into the sour cream in order to mash the large clumps of sour cream into the flour and butter. A commenter suggested using a pastry blender which will help incorporate the sour cream a bit better. The sour cream won’t mix in like a traditional pie crust with ice water. But take care not to overwork the dough trying to get the sour cream mixed in – if the butter pieces get too small and overprocessed, the crust will be tough.
-0. After a few turns with the fork, it is easiest to use your hands to pull the dough together. It will look a bit shaggy but as you press it together (quickly and firmly so the the butter pieces don’t melt), it should start to form a cohesive ball.
+0. After a few turns with the fork, it is easiest to use your hands to pull the dough together. It will look a bit shaggy but as you press it together (quickly and firmly so the butter pieces don’t melt), it should start to form a cohesive ball.
 0. If it still seems overly dry, add a teaspoon or so of sour cream at a time until it comes together.
 0. It’s ok if there are still a few dry spots or cracks in the dough. The mixture should not be overly wet or sticky. At the same time, it shouldn’t be falling apart either. It should hold together when pressed (see the pictures below). Many of you have had to add quite a bit more sour cream. That’s ok as long as the crust isn’t overly saturated (then it will be dense and gummy). Much of that depends on how you measure flour – if you pack the flour into your measuring cup, you’ll obviously need more sour cream (try to measure the flour with a light hand).
 0. At this point the dough can be rolled out on a lightly floured counter or it can also be pressed into a flat disc and wrapped in plastic to be refrigerated for 1-2 days or frozen for up to a month.

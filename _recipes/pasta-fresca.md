@@ -1,5 +1,9 @@
 ---
-tags: pasta main one-dish
+tags: main pasta seafood one-dish
+pairings:
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
+  - "A crisp white like Pinot Grigio"
 ---
 ## Source
 Adapted from [Gimme Some Oven](http://www.gimmesomeoven.com/pasta-fresca/)
@@ -8,7 +12,7 @@ Adapted from [Gimme Some Oven](http://www.gimmesomeoven.com/pasta-fresca/)
 * 12 oz. farfalle
 * 4 cloves garlic (either fresh or roasted), minced
 * 3-4 roma tomatoes, diced
-* 2/4 a red onion, diced (about 1 1/2 cup)
+* 1/2 a red onion, diced (about 1 1/2 cup)
 * 1 lb. raw, frozen shrimp
 * 6 oz. baby fresh spinach
 * freshly grated parmesan

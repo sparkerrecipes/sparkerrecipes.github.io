@@ -1,5 +1,9 @@
 ---
 tags: main one-dish
+pairings:
+  - "[Blanched Asparagus Salad](/recipes/blanched-asparagus-salad)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Lemony French Green Bean and Asparagus Salad](/recipes/lemony-french-green-bean-and-asparagus-salad)"
 ---
 
 ### Source
@@ -12,7 +16,7 @@ Half [Food Network](http://www.foodnetwork.com/recipes/food-network-kitchens/roa
 * 1 bunch scallions
 * 1 bunch baby carrots
 * 3 tbsp extra-virgin olive oil
-* 2 tsp, heaping ground thyme
+* 2 heaping tsp ground thyme
 * 2 tsp sea salt
 * 1 tsp black pepper
 * 1 tsp ground allspice
@@ -26,6 +30,6 @@ Half [Food Network](http://www.foodnetwork.com/recipes/food-network-kitchens/roa
 0. Spray a roasting pan with cooking spray. Place the chicken throughout the pan.
 0. Drizzle olive oil on the chicken, then sprinkle with the spice mixture and lemon juice
 5. Roast chicken for 10 minutes.
-3. Cut radishes and potatoes in half. Cut scallions into 3-in pieces. Toss and combine with the garlic, olive oil,  and the juice of half the lemon. Sprinkle with the spice mixture
+3. Cut radishes and potatoes in half. Cut scallions into 3-in pieces. Toss and combine with the garlic, olive oil, and the juice of half the lemon. Sprinkle with the spice mixture
 6. Remove the chicken and place vegetables around it. Return to the oven and roast for another 45 minutes, checking after 25.
 7. Squeeze a bit more juice from the lemon over the vegetables and chicken, and serve.

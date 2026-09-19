@@ -1,5 +1,11 @@
 ---
-tags: side fall
+tags: side vegetarian fall
+title: Wild Rice with Cranberries and Brussels Sprouts
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Braised Chicken with Mushrooms](/recipes/braised-chicken-with-mushrooms)"
+  - "[Mom's Pot Roast](/recipes/moms-pot-roast)"
+  - "[Honey Dijon Roasted Parsnips](/recipes/honey-dijon-roasted-parsnips)"
 ---
 
 ### Source

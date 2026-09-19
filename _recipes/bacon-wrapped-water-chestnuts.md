@@ -1,5 +1,9 @@
 ---
 tags: appetizer
+pairings:
+  - "[Smoked Salmon Spread](/recipes/smoked-salmon-spread)"
+  - "[Dill Ranch Oyster Crackers](/recipes/dill-ranch-oyster-crackers)"
+  - "[It's Finally Spring Cocktail](/recipes/its-finally-spring-cocktail)"
 ---
 
 ### Ingredients

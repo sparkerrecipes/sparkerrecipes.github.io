@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side salad vegetarian
+pairings:
+  - "[Slow-cooker Pernil](/recipes/pernil)"
+  - "[Blackened Tilapia](/recipes/blackened-tilapia)"
+  - "[Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
+  - "[Cheater Pulled Chicken](/recipes/cheater-pulled-chicken)"
 ---
 
 ### Source

@@ -1,5 +1,9 @@
 ---
-tags: main
+tags: main salad one-dish
+pairings:
+  - "[Seasoned Yukon Gold Wedges](/recipes/seasoned-yukon-gold-wedges)"
+  - "[Summer Vegetable Soup with Pistou](/recipes/summer-vegetable-soup-with-pistou)"
+  - "Chilled dry rosé"
 ---
 
 ### Source

@@ -1,5 +1,10 @@
 ---
-tags: main
+tags: main indian
+pairings:
+  - "Basmati rice"
+  - "[Bhindi Masala](/recipes/bhindi-masala)"
+  - "[Instant Pot Punjabi Chikar Cholay](/recipes/instant-pot-punjabi-chikar-cholay)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
 ---
 
 ### Source

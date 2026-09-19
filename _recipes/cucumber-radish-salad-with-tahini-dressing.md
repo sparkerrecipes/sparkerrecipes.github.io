@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side salad vegetarian
+pairings:
+  - "[Baked Salmon with Red Pepper Paste](/recipes/baked-salmon-with-red-pepper-paste)"
+  - "[Lemongrass Chicken](/recipes/lemongrass-chicken)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Peanut Tofu with Green Beans](/recipes/peanut-tofu-with-green-beans)"
 ---
 
 ### Ingredients - Dressing
@@ -26,4 +31,4 @@ tags: side
 0. Make the garlic lime tahini. In a small food processor, combine the tahini, garlic, lime zest, lime juice, maple syrup, Worcestershire, salt, and pepper. Pulse until combined.
 0. Then, drizzle the water in through the feed tube. Stop the food processor to scrape down the sides and pulse it a couple more times. The resulting texture should be a thick, somewhat whipped-like texture, but still fluid enough to pour from a spoon. Set aside in the fridge.
 0. Using a mandoline, slice the radishes and cucumbers very thin. Thinly cut up the basil and combine in a bowl with the veg. Toss with olive oil, lime juice, salt, and pepper
-0. Serve a scoop of the salid with the tahini dressing, then sprinkle pistachios on top (and chili crisp, if using)
+0. Serve a scoop of the salad with the tahini dressing, then sprinkle pistachios on top (and chili crisp, if using)

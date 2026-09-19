@@ -1,5 +1,10 @@
 ---
 tags: main mediterranean
+pairings:
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh)"
+  - "[Cauliflower Salad](/recipes/cauliflower-salad)"
+  - "[Smashed Zucchini with Za'atar and Labneh](/recipes/smashed-zucchini-with-zaatar-and-labneh)"
+  - "[Barley Salad with Roasted Vegetables](/recipes/barley-salad-with-roasted-vegetables)"
 ---
 
 ### Source
@@ -18,10 +23,10 @@ tags: main mediterranean
 * 2 tsp salt
 * 1/2 teaspoon freshly ground black pepper
 * 5 garlic cloves, minced
-* 2-1/2 pounds boneless skinless chicken thighs, trimmed of all  fat and cut into large bite-sized pieces
+* 2-1/2 pounds boneless skinless chicken thighs, trimmed of all fat and cut into large bite-sized pieces
 * 1 large red onion, cut into wedges
 
 ### Steps
 1. In a large bowl, combine all ingredients except for the chicken and onion.
 2. Add the chicken and onion. Let sit for 8-24 hours.
-3. Grill until cooked thoroughly, about 10-15 minutes."
+3. Grill until cooked thoroughly, about 10-15 minutes.

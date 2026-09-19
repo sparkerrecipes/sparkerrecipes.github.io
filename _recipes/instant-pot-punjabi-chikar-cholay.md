@@ -1,5 +1,10 @@
 ---
-tags: main indian instantpot
+tags: main indian vegetarian instantpot
+pairings:
+  - "Basmati rice"
+  - "[Bhindi Masala](/recipes/bhindi-masala)"
+  - "[Green Chutney Chicken](/recipes/green-chutney-chicken)"
+  - "[Indian Butter Chicken](/recipes/indian-butter-chicken)"
 ---
 
 ### Source
@@ -30,7 +35,7 @@ The amazing [My Heart Beets](https://myheartbeets.com/instant-pot-punjabi-chikar
 * Indian chiles
 
 ### Directions - Dried Chickpeas
-0. If using dried chickpeads: place the dried chickpeas in a large bowl and cover with 2 inches of cold water for 8 hours. The chickpeas will absorb water and expand in size, so make sure to use a large bowl.
+0. If using dried chickpeas: place the dried chickpeas in a large bowl and cover with 2 inches of cold water for 8 hours. The chickpeas will absorb water and expand in size, so make sure to use a large bowl.
 0. Drain and rinse the beans. Add the chickpeas and 2c water to the instant pot. Cook for 35 minutes at high pressure.
 0. Naturally release pressure.
 

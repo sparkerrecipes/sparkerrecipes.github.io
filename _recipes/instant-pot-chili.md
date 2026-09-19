@@ -1,5 +1,10 @@
 ---
-tags: instantpot main one-dish
+tags: main instantpot one-dish
+pairings:
+  - "[Dill Ranch Oyster Crackers](/recipes/dill-ranch-oyster-crackers)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw) or [Jalapeño Coleslaw](/recipes/jalapeno-coleslaw)"
+  - "Corn chips or cornbread"
+  - "[Biscuits](/recipes/biscuits)"
 ---
 
 ### Source

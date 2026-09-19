@@ -1,5 +1,10 @@
 ---
-tags: appetizer mexican
+tags: appetizer mexican vegetarian
+pairings:
+  - "[Cast Iron Chicken Fajitas](/recipes/cast-iron-chicken-fajitas)"
+  - "[Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
+  - "[Sofritas](/recipes/sofritas)"
+  - "[Mostly Guilt Free Vegan Nachos](/recipes/mostly-guilt-free-vegan-nachos)"
 ---
 ### Ingredients
 * 1 red onion

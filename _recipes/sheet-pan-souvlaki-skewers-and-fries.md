@@ -1,5 +1,10 @@
 ---
-tags: main one-dish
+tags: main mediterranean one-dish
+pairings:
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh)"
+  - "[Smashed Zucchini with Za'atar and Labneh](/recipes/smashed-zucchini-with-zaatar-and-labneh)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "Tzatziki, or mast musir from [Oven-Roasted Chicken Shawarma](/recipes/oven-roasted-chicken-shawarma)"
 ---
 
 ### Source
@@ -38,7 +43,7 @@ tags: main one-dish
 0. Prepare the fries
   0. Cut the fries into matchsticks and place into a large bowl. Cover with very hot water for 10 minutes, then drain and dry completely
   0. Toss fries with remaining ingredients, then lay out on a parchment-lined baking sheet
-  0. Roast in 450 oven for 15 minutes, then toss, and rost for another 20-30
+  0. Roast in 450 oven for 15 minutes, then toss, and roast for another 20-30
 0. When ready to roast the souvlaki, add 3 Tbsp. fresh lemon juice to chicken mixture and toss to coat. Thread chicken onto skewers; arrange over chickpeas. Roast until chicken is opaque throughout, 15 minutes. Heat broiler. Broil until chicken and chickpeas are browned in spots, about 5 minutes. Remove baking sheet from oven; drizzle 1 Tbsp. extra-virgin olive oil over chicken and chickpeas.
 0. While everything is roasting, combine ½ small red onion, thinly sliced, 1 lb. mixed tomatoes, cut into bite-size pieces, and ½ cup pitted Kalamata olives in a large bowl. Drizzle with oil and lemon juice, season with salt, and toss to coat.
 0. Scatter tomato salad over chicken and chickpeas. Top with 6 oz. feta, thinly sliced, and parsley leaves.

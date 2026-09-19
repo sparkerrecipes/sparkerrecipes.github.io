@@ -1,5 +1,9 @@
 ---
-tags: main vegetarian
+tags: main mediterranean vegetarian
+pairings:
+  - "[Catalan-style Spinach (or other greens)](/recipes/catalan-style-spinach-greens)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "Crusty bread and a glass of Rioja"
 ---
 
 ### Source
@@ -14,7 +18,7 @@ A Forking Recipes user who lived in Spain and learned how to make them.
 * 1 bag of lentils
 * Salt
 * Pepper
-* A bayleaf
+* A bay leaf
 * *Optional* Chorizo
 
 ### Directions
@@ -22,7 +26,7 @@ A Forking Recipes user who lived in Spain and learned how to make them.
 0. Saute over low heat the onion, tomato, garlic, and leek with olive oil.  Be generous with the oil.  You're Spanish now.  
 0. After about 5-6 minutes, add the lentils.  
 0. Now fill the pot with water.  The measurement I usually do is about 2 fingers-width higher than the level of the lentils.  
-0. Add salt and pepper and the bayleaf.  
+0. Add salt and pepper and the bay leaf.  
 0. Cover with high heat for about 8 minutes.  
 0. Uncover it and check that everything's well dispersed, then put it on medium heat for 45 minutes.  Stir every 8-10 minutes or so and then re-cover the pot.  
 0. If you're feeling good about yourself, chop and heat up some chorizo and toss it in as well.  

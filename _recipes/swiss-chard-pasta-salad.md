@@ -1,5 +1,9 @@
 ---
-tags: main salad one-dish
+tags: main salad pasta vegetarian one-dish
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
 ---
 
 ### Source
@@ -7,13 +11,13 @@ tags: main salad one-dish
 
 ### Ingredients
 * 10 oz. ditalini or other small pasta
-* 1½ tsp. Diamond Crystal or ¾ Morton kosher salt, plus more
+* 1½ tsp. Diamond Crystal or ¾ tsp. Morton kosher salt, plus more
 * 2 bunches Swiss chard
 * ⅔ cup extra-virgin olive oil, divided
 * ½ cup coarsely chopped raw pistachios
 * 2 Tbsp. thinly sliced sage
 * 2 garlic cloves, minced
-* ⅓cup sherry vinegar or red wine vinegar
+* ⅓ cup sherry vinegar or red wine vinegar
 * 2 Tbsp. coarsely chopped capers
 * ½ tsp. crushed red pepper flakes
 * 5 oz. feta, crumbled

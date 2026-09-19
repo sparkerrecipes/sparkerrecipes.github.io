@@ -1,5 +1,9 @@
 ---
 tags: breakfast
+pairings:
+  - "Chermoula (the recipe calls for it) or a good hot sauce"
+  - "[Slow Cooker Applesauce](/recipes/slow-cooker-applesauce)"
+  - "Fresh fruit"
 ---
 
 ### Source

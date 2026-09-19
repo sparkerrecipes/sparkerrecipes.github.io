@@ -1,5 +1,10 @@
 ---
-tags: main vegetarian mexican
+tags: main mexican vegetarian
+pairings:
+  - "Rice and black beans"
+  - "[Pico De Gallo](/recipes/pico-de-gallo)"
+  - "[Cooper's Avocado Salsa](/recipes/coopers-avocado-salsa)"
+  - "[Calabacitas](/recipes/calabacitas)"
 ---
 
 ### Source

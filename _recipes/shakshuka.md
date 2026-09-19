@@ -1,5 +1,10 @@
 ---
-tags: breakfast
+tags: breakfast mediterranean vegetarian
+pairings:
+  - "Crusty bread (gluten-free works) for the sauce"
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh)"
 ---
 
 ### Source

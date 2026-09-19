@@ -1,6 +1,11 @@
 ---
-tags: side vegetarian
+tags: side mediterranean vegetarian
 title: Smashed Zucchini with Za’atar and Labneh
+pairings:
+  - "[Mediterranean Chicken Kabobs](/recipes/mediterranean-chicken-kabobs)"
+  - "[Oven-Roasted Chicken Shawarma](/recipes/oven-roasted-chicken-shawarma)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Lemon Paprika Chicken](/recipes/lemon-paprika-chicken)"
 ---
 
 ### Source

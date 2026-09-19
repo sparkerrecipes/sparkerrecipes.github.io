@@ -1,5 +1,10 @@
 ---
 tags: main indian instantpot one-dish
+pairings:
+  - "[Bhindi Masala](/recipes/bhindi-masala)"
+  - "[Instant Pot Punjabi Chikar Cholay](/recipes/instant-pot-punjabi-chikar-cholay)"
+  - "Mast musir, the yogurt-shallot sauce from [Oven-Roasted Chicken Shawarma](/recipes/oven-roasted-chicken-shawarma)"
+  - "Cucumber-tomato salad with lime"
 ---
 
 *Note* – you always think "I should double this, right?" No. This *is* doubled.

@@ -1,5 +1,9 @@
 ---
 tags: dessert
+pairings:
+  - "Coffee"
+  - "Fresh berries"
+  - "Dessert after [Cast Iron Chicken Fajitas](/recipes/cast-iron-chicken-fajitas) or [Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
 ---
 
 ### Source

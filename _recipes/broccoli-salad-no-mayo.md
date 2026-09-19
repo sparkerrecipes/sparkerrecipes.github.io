@@ -1,5 +1,10 @@
 ---
-tags: side vegetarian
+tags: side salad vegetarian
+pairings:
+  - "[Huli Huli Chicken](/recipes/huli-huli-chicken)"
+  - "[Mom's BBQ Chicken](/recipes/moms-bbq-chicken)"
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Cheater Pulled Chicken](/recipes/cheater-pulled-chicken)"
 ---
 
 ### Source

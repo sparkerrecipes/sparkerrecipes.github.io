@@ -1,5 +1,10 @@
 ---
-tags: soup main one-dish
+tags: main soup one-dish
+pairings:
+  - "[Biscuits](/recipes/biscuits)"
+  - "[Dill Ranch Oyster Crackers](/recipes/dill-ranch-oyster-crackers)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
 ---
 
 _Yum! This is a hearty, savory soup. I make it all the time. We took it camping, and it was the hit of our trip._

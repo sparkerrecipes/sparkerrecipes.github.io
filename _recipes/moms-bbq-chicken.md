@@ -1,6 +1,11 @@
 ---
 title: Mom's BBQ Chicken
 tags: main
+pairings:
+  - "[Nashville-Style BBQ Sauce](/recipes/nashville-style-bbq-sauce)"
+  - "[Broccoli Salad](/recipes/broccoli-salad) or [Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
+  - "[Korean Potato Salad](/recipes/korean-potato-salad)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw) or [Jalapeño Coleslaw](/recipes/jalapeno-coleslaw)"
 ---
 
 _Proper BBQ chicken is a little tedious to make on the grill. My mother is nothing if not pragmatic, and makes a much less labor-intensive version. It's a Parker family Christmas tradition_

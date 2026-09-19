@@ -1,5 +1,9 @@
 ---
-tags: main vegetarian one-dish asian
+tags: main asian vegetarian one-dish
+pairings:
+  - "Steamed jasmine rice"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "[Brussels Sprout Salad](/recipes/brussel-sprout-salad)"
 ---
 
 ### Ingredients - Dressing
@@ -32,5 +36,5 @@ tags: main vegetarian one-dish asian
 0. To the bowl, add 2 tablespoons of the oil, salt, and pepper. Give the tofu a toss to coat. Then add the arrowroot, 1 teaspoon garlic powder, and 1 teaspoon onion powder. Toss again to coat.
 0. Lay the tofu out on the baking sheet in a single layer. Slide the baking sheet into the oven and set a timer for 15 minutes.
 0. Wipe out the medium bowl that you used for the tofu and add the green beans to it. To the green beans, add the remaining 1 ½ tablespoons oil, remaining teaspoon garlic powder, remaining teaspoon onion powder, and some salt and pepper. Toss to coat.
-0. When the timer goes off, remove the tofu from the over. Stir the tofu and move them to one half of the sheet, then add the green beans to the other. Bake for another 15-20 until the tofu is golden and the green beans are browning.
+0. When the timer goes off, remove the tofu from the oven. Stir the tofu and move them to one half of the sheet, then add the green beans to the other. Bake for another 15-20 until the tofu is golden and the green beans are browning.
 0. Briefly broil at the end for a little extra color, then serve over brown rice.

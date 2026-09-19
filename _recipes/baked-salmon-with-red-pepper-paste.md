@@ -1,8 +1,13 @@
 ---
-tags: main
+tags: main seafood mediterranean
+pairings:
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
+  - "[Charred Cabbage in Tomatoes](/recipes/charred-cabbage-in-tomatoes)"
+  - "Couscous (or quinoa) to soak up the pan juices"
 ---
 
-nice with couscous and a ceasar salad
+nice with couscous and a Caesar salad
 
 ### Source
 [NYT](https://cooking.nytimes.com/recipes/1026695-baked-salmon-with-harissa-and-cherry-tomatoes)

@@ -1,6 +1,10 @@
 ---
-tags: salad main one-dish
+tags: main salad one-dish
 title: Rosemary Chicken, Bacon and Avocado Salad
+pairings:
+  - "[Summer Vegetable Soup with Pistou](/recipes/summer-vegetable-soup-with-pistou)"
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "Chilled dry rosé"
 ---
 
 ### Source

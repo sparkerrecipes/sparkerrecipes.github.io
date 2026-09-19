@@ -1,5 +1,10 @@
 ---
 tags: main pasta one-dish
+pairings:
+  - "A cold cucumber-and-pepper salad"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Sautéed Zucchini](/recipes/sauteed-zucchini)"
 ---
 
 _This is my own recipe that combines what I liked from [David's Spicy Sausage Pasta](http://forkingrecipes.com/dpick/spicy-sausage-pasta) with some of [Emeril's similar recipe](http://www.foodnetwork.com/recipes/emeril-lagasse/hot-and-sweet-italian-sausages-in-tomato-sauce-recipe.html). The end result is a thick, spicy, tomato-ey sauce. Because of the heat, a cold cucumber-and-pepper salad makes an excellent side dish for this._

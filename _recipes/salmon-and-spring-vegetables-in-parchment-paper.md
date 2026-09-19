@@ -1,5 +1,9 @@
 ---
-tags: main fish
+tags: main seafood one-dish
+pairings:
+  - "[Baked Rice with Leeks and Beans](/recipes/baked-rice-with-leeks-and-beans)"
+  - "[Instant Pot Carrot Saffron Risotto](/recipes/instant-pot-carrot-saffron-risotto)"
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
 ---
 
 ### Source

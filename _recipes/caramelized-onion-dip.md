@@ -1,5 +1,10 @@
 ---
-tags: appetizer
+tags: appetizer vegetarian
+pairings:
+  - "Kettle chips and crudités"
+  - "[Dill Ranch Oyster Crackers](/recipes/dill-ranch-oyster-crackers)"
+  - "[Grilled Hot Wings](/recipes/grilled-hot-wings)"
+  - "[Lemon Pepper Chicken Wings](/recipes/lemon-pepper-chicken-wings)"
 ---
 
 ### Source

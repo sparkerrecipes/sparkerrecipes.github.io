@@ -1,5 +1,10 @@
 ---
-tags: main instantpot
+tags: main asian instantpot
+pairings:
+  - "[Easy Fried Rice](/recipes/easy-fried-rice) or steamed rice"
+  - "[Brussels Sprout Salad](/recipes/brussel-sprout-salad)"
+  - "[Gochujang Carrots and Parsnips](/recipes/gochujang-carrots-and-parsnips)"
+  - "Steamed broccoli"
 ---
 
 ### Source

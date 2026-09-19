@@ -1,5 +1,9 @@
 ---
-tags: pasta main vegetarian
+tags: main pasta vegetarian
+pairings:
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Blanched Asparagus Salad](/recipes/blanched-asparagus-salad)"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
 ---
 
 ### Ingredients
@@ -12,7 +16,7 @@ tags: pasta main vegetarian
 * 2 large shallots, finely minced
 * 1.5 teaspoon thyme leaves, finely chopped
 * 1.5 teaspoon smoked paprika
-* 1/4 cup dry white wine, such as Pino Grigio
+* 1/4 cup dry white wine, such as Pinot Grigio
 * Kosher salt
 * Freshly ground black pepper
 

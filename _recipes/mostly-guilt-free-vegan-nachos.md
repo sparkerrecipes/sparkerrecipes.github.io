@@ -1,5 +1,10 @@
 ---
-tags: main vegetarian mexican
+tags: main mexican vegetarian
+pairings:
+  - "[10-Minute Cantina Salsa](/recipes/10-minute-cantina-salsa)"
+  - "[Cooper's Avocado Salsa](/recipes/coopers-avocado-salsa)"
+  - "[Cucumber Tomato Mexican Salad](/recipes/cucumber-tomato-mexican-salad)"
+  - "Margaritas or a Mexican lager"
 ---
 ### Source
 [Love & Lemons](https://www.loveandlemons.com/nachos-recipe/)

@@ -1,5 +1,9 @@
 ---
-tags: misc
+tags: sauce
+pairings:
+  - "Your favorite pizza crust (gluten-free crusts work fine)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "Green salad with [Basic Balsamic Vinaigrette](/recipes/basic-balsamic-vinaigrette)"
 ---
 _Sweet, slightly tangy, and so easy to make. Good for about 3 pizzas. You are eating 3 pizzas every 10 days or so, right?_
 

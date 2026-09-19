@@ -1,5 +1,10 @@
 ---
-tags: main vegetarian one-dish
+tags: main pasta vegetarian one-dish
+pairings:
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
 ---
 
 [Source](https://thefirstmess.com/2025/03/26/green-orzo-risotto-vegan/)
@@ -25,6 +30,6 @@ tags: main vegetarian one-dish
 0. In an upright blender, combine the cashews, edamame, spinach (no need to squeeze the moisture out), miso, nutritional yeast, and ¾ cup of vegetable stock. Blend on high until completely smooth and creamy, about 30 seconds. Set aside.
 0. Place a deep skillet or braiser pot over medium heat. Add 2 teaspoons of olive oil and swirl it around. Add the asparagus and season with salt and pepper. Sauté until bright green and beginning to soften, about 3-4 minutes.
 0. Transfer the cooked asparagus to a plate and set aside.
-0. Return the skillet to medium heat and add remaining 2 tablespoons of olive oil. Add the shallots. Sauté the shallots until soft and translucent, about 4 minutes. Add the garlic, lemon zest, and red pepper flakes (if using). Sauté for another 30 seconds.
+0. Return the skillet to medium heat and add remaining 2 teaspoons of olive oil. Add the shallots. Sauté the shallots until soft and translucent, about 4 minutes. Add the garlic, lemon zest, and red pepper flakes (if using). Sauté for another 30 seconds.
 0. Add the orzo pasta to the skillet and stir to toast for a minute or so. Then, add the remaining vegetable stock and stir. Season with salt and pepper before bringing to a boil. Then, lower the heat to a simmer and cook until orzo is soft, about 8 minutes, stirring and scraping the bottom of the pot often. The orzo will want to stick to the bottom of the pot, so just keep stirring. You want to keep the consistency nice and fluid.
 0. Once the orzo is soft and the mixture is slightly creamy, add the cashew edamame cream to the skillet and stir to combine. It will seem too soupy at first! Keep stirring over medium heat and gradually the orzo will absorb the liquid. Adjust the seasoning if necessary and then stir in the lemon juice and sautéed asparagus

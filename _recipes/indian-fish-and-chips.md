@@ -1,5 +1,9 @@
 ---
-tags: main fish
+tags: main seafood indian one-dish
+pairings:
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "[Bhindi Masala](/recipes/bhindi-masala)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
 ---
 
 Source: Plated.com (RIP)
@@ -24,7 +28,7 @@ Source: Plated.com (RIP)
 
 ### Directions
 
-* Preheat oven to 450. Cut sweet potato into flat wedges about 1/2in thick. Toss weeds with ground ginger, oil, salt, and pepper. Arrange in a single layer on parchment paper and roast until brown & tender, 20-25 minutes.
+* Preheat oven to 450. Cut sweet potato into flat wedges about 1/2in thick. Toss wedges with ground ginger, oil, salt, and pepper. Arrange in a single layer on parchment paper and roast until brown & tender, 20-25 minutes.
 
 * In a large bowl, make the batter. Whisk the chickpea flour, baking powder, garam masala, and 1/2 tsp each of salt and pepper. Then add 1/2c cold water. Chill in refrigerator for at least 5 minutes.
 
@@ -34,4 +38,4 @@ Source: Plated.com (RIP)
 
 * Heat a thin layer of vegetable oil in a frying pan. When shimmering, dip the tilapia strips in batter, dripping off any excess. Fry the strips in batches, looking for puffed crusts about 3-5 minutes per side. Drain on paper towel and sprinkle lightly with salt.
 
-* If you want to get fancy, you can service this with additional lime wedges to sprinkle over the fish.
+* If you want to get fancy, you can serve this with additional lime wedges to sprinkle over the fish.

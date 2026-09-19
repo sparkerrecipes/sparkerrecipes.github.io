@@ -1,5 +1,10 @@
 ---
-tags: appetizer mexican
+tags: appetizer mexican vegetarian
+pairings:
+  - "[Cast Iron Chicken Fajitas](/recipes/cast-iron-chicken-fajitas)"
+  - "[Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
+  - "[Mostly Guilt Free Vegan Nachos](/recipes/mostly-guilt-free-vegan-nachos)"
+  - "Corn tortilla chips, alongside [Cooper's Avocado Salsa](/recipes/coopers-avocado-salsa)"
 ---
 
 _I searched long and far for the perfect salsa that is also quick to make. I've finally found it, adapted slightly from [Carlsbad Cravings](http://www.carlsbadcravings.com/fire-roasted-restaurant-blender-salsa-5-minutes/). They list it as five minutes - it's more like ten._

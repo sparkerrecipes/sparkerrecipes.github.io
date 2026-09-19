@@ -1,5 +1,10 @@
 ---
 tags: dessert
+pairings:
+  - "[Strawberry Rhubarb Pie](/recipes/strawberry-rhubarb-pie)"
+  - "[Apple Crumb Pie](/recipes/apple-crumb-pie)"
+  - "[Bourbon Pecan Pie](/recipes/bourbon-pecan-pie)"
+  - "[Mixed Berry Pie](/recipes/mixed-berry-pie)"
 ---
 
 Source: [Serious Eats](https://www.seriouseats.com/brown-sugar-whipped-cream-recipe)

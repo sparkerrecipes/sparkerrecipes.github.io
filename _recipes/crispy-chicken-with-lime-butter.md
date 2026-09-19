@@ -1,5 +1,10 @@
 ---
 tags: main
+pairings:
+  - "Rice to catch the pan sauce"
+  - "[Caramelized Cauliflower with Salsa Verde](/recipes/caramelized-cauliflower-with-salsa-verde)"
+  - "[Sautéed Zucchini](/recipes/sauteed-zucchini)"
+  - "[Blanched Asparagus Salad](/recipes/blanched-asparagus-salad)"
 ---
 
 ### Source

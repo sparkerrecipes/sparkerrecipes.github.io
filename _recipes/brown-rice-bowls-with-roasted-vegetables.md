@@ -1,5 +1,9 @@
 ---
-tags: main vegetarian
+tags: main vegetarian one-dish
+pairings:
+  - "A fried or jammy egg on top"
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
 ---
 
 ### Source

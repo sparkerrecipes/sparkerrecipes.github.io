@@ -1,5 +1,10 @@
 ---
-tags: main vegetarian
+tags: main mediterranean vegetarian
+pairings:
+  - "[Quinoa Tabbouleh](/recipes/quinoa-tabboleh) or plain quinoa"
+  - "[Green Beans with Tahini Sbagliato](/recipes/green-beans-with-tahini-sbagliato)"
+  - "[Catalan-style Spinach (or other greens)](/recipes/catalan-style-spinach-greens)"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
 ---
 
 Serve with quinoa and a green vegetable

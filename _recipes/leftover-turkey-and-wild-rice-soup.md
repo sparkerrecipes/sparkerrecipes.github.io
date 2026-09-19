@@ -1,5 +1,9 @@
 ---
-tags: main soup
+tags: main soup one-dish fall
+pairings:
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Biscuits](/recipes/biscuits)"
+  - "[Dill Ranch Oyster Crackers](/recipes/dill-ranch-oyster-crackers)"
 ---
 
 ### Source

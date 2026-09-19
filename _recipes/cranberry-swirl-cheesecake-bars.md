@@ -1,9 +1,13 @@
 ---
-tags: dessert
+tags: dessert fall
+pairings:
+  - "Coffee or a tawny port"
+  - "A holiday dessert table with [Pumpkin Swirl Cheesecake](/recipes/pumpkin-swirl-cheesecake) and [Bourbon Pecan Pie](/recipes/bourbon-pecan-pie)"
 ---
 
 ### Source
 [Good Housekeeping](https://www.goodhousekeeping.com/food-recipes/a14362/cranberry-swirl-cheesecake-bars-rbk0912/) but really, my niece.
+
 ### Ingredients
 * 1/2 c. cranberries (thawed if frozen)
 * 1/2 c. frozen raspberries, thawed

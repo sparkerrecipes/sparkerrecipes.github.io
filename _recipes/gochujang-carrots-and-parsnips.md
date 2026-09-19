@@ -1,5 +1,10 @@
 ---
-tags: side
+tags: side asian vegetarian
+pairings:
+  - "[Lemongrass Chicken](/recipes/lemongrass-chicken)"
+  - "[Coconut Grilled Chicken Thighs](/recipes/coconut-grilled-chicken-thighs)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Baked Salmon with Smoky Sweet Rub](/recipes/baked-salmon-with-smoky-sweet-rub)"
 ---
 
 ### Source

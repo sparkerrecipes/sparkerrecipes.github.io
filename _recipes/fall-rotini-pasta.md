@@ -1,5 +1,9 @@
 ---
-tags: main vegetarian one-dish
+tags: main pasta vegetarian one-dish fall
+pairings:
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "Dry hard cider"
 ---
 
 ### Source
@@ -27,10 +31,10 @@ tags: main vegetarian one-dish
 * Salt
 
 
-### Directions - Crock Pot
-1. Cook the Rotini pasta in boiling water according to the package instructions to al dante (which is about 1 or 2 minutes before it’s cooked all the way to soft.) When ready, drain.
+### Directions
+1. Cook the Rotini pasta in boiling water according to the package instructions to al dente (which is about 1 or 2 minutes before it’s cooked all the way to soft.) When ready, drain.
 1. While the pasta is cooking, heat 1 tbsp extra virgin olive oil in a large cast iron. Add the butternut squash. Cook on medium-high heat, stirring occasionally, until the butternut squash is cooked through. Season with a little salt. Transfer the butternut squash to a dish and set aside for now.
-1. Now, if needed, add 1 tbsp extra virgin olive oil to the same cast iron skillet. Make sure the oil is hot. Now add the brussels sprouts, cut side down, and cook on medium-high heat for 3-4 minutes. Turn the brussels sproutss over on the other side and cook for another 5 minutes until nicely browned and tender. Sprinkle with salt. Transfer to the same dish with the butternut squash for the moment.
-1. Now make the sauce in the same cast iron skillet. Melt the butter over medium-high heat, swirling occasionally, until the butter is browned and releases a nice nutty aroma. Remove the skillet from heat briefly and add the shallots, marjarom, and garlic. Stir until fragrant (less than 1 minute). Return to medium heat and add the olive oil and lemon juice. Stir in the lemon zest and a pinch of salt. Keep the sauce in the cast iron skillet on medium heat.
+1. Now, if needed, add 1 tbsp extra virgin olive oil to the same cast iron skillet. Make sure the oil is hot. Now add the brussels sprouts, cut side down, and cook on medium-high heat for 3-4 minutes. Turn the brussels sprouts over on the other side and cook for another 5 minutes until nicely browned and tender. Sprinkle with salt. Transfer to the same dish with the butternut squash for the moment.
+1. Now make the sauce in the same cast iron skillet. Melt the butter over medium-high heat, swirling occasionally, until the butter is browned and releases a nice nutty aroma. Remove the skillet from heat briefly and add the shallots, marjoram, and garlic. Stir until fragrant (less than 1 minute). Return to medium heat and add the olive oil and lemon juice. Stir in the lemon zest and a pinch of salt. Keep the sauce in the cast iron skillet on medium heat.
 1. Now add the cooked pasta to the sauce and stir until the pasta is well coated. Season with a little more salt, black pepper, ground cinnamon, and nutmeg. Stir in the baby spinach and parsley. Then add the cooked butternut squash and brussels sprouts. Cook everything together on medium heat, stirring regularly, until warmed through. Taste and adjust the salt and seasoning to your liking.
 1. Transfer the warm rotini pasta salad to a large bowl. Drizzle with a little more extra virgin olive oil, if you like. Top with goat cheese and toasted pine nuts. Serve warm or at room temperature with extra goat cheese on the side! Enjoy!

@@ -1,6 +1,10 @@
 ---
 tags: sauce
 title: Nashville-Style BBQ Sauce
+pairings:
+  - "[Cheater Pulled Chicken](/recipes/cheater-pulled-chicken)"
+  - "[Mom's BBQ Chicken](/recipes/moms-bbq-chicken)"
+  - "[Slow-cooker Pernil](/recipes/pernil)"
 ---
 
 _Nothing impresses like homemade barbecue sauces. My dirty secret is that it is stunningly easy. The book CHEATER BBQ has loads of tasty homemade barbecue sauces. It seems to be out-of-print but you can still track down a copy easily enough. It's my barbecue bible._

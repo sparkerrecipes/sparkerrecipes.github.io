@@ -1,5 +1,10 @@
 ---
-tags: main
+tags: main asian one-dish
+pairings:
+  - "Steamed jasmine rice"
+  - "[Korean Potato Salad](/recipes/korean-potato-salad)"
+  - "[Easy Fried Rice](/recipes/easy-fried-rice)"
+  - "Quick-pickled cucumbers"
 ---
 
 Serve over rice.
@@ -8,22 +13,22 @@ Serve over rice.
 [Source](https://www.bonappetit.com/recipe/gochujang-chicken-stir-fry)
 
 ### Ingredients
-6 garlic cloves, finely grated, divided
-1 lb. skinless, boneless chicken breasts, cut into bite-size pieces
-1 Tbsp. cornstarch
-½ tsp. Diamond Crystal or ¼ tsp. Morton kosher salt
-Freshly ground pepper
-3 Tbsp. gochujang (Korean hot pepper paste)
-1 Tbsp. mirin
-1 Tbsp. seasoned rice vinegar
-1 Tbsp. soy sauce
-1 Tbsp. sugar
-6 scallions, divided
-3 Tbsp. vegetable oil, divided
-12 oz. haricots verts or green beans, trimmed, halved crosswise
-1 2" piece ginger, peeled, finely grated
-1 tsp. toasted sesame oil
-Steamed white rice (for serving; optional)
+* 6 garlic cloves, finely grated, divided
+* 1 lb. skinless, boneless chicken breasts, cut into bite-size pieces
+* 1 Tbsp. cornstarch
+* ½ tsp. Diamond Crystal or ¼ tsp. Morton kosher salt
+* Freshly ground pepper
+* 3 Tbsp. gochujang (Korean hot pepper paste)
+* 1 Tbsp. mirin
+* 1 Tbsp. seasoned rice vinegar
+* 1 Tbsp. soy sauce
+* 1 Tbsp. sugar
+* 6 scallions, divided
+* 3 Tbsp. vegetable oil, divided
+* 12 oz. haricots verts or green beans, trimmed, halved crosswise
+* 1 2" piece ginger, peeled, finely grated
+* 1 tsp. toasted sesame oil
+* Steamed white rice (for serving; optional)
 
 ### Instructions
 0. Combine 2 garlic cloves, finely grated, 1 lb. skinless, boneless chicken breasts, cut into bite-size pieces, 1 Tbsp. cornstarch, and ½ tsp. Diamond Crystal or ¼ tsp. Morton kosher salt in a medium bowl; season with freshly ground pepper. Toss until chicken is coated (your hands work best here). Set chicken aside.

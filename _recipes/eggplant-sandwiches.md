@@ -1,5 +1,9 @@
 ---
 tags: main vegetarian
+pairings:
+  - "[Spiced Lentil Soup](/recipes/spiced-lentil-soup)"
+  - "[Summer Vegetable Soup with Pistou](/recipes/summer-vegetable-soup-with-pistou)"
+  - "[Cauliflower Salad](/recipes/cauliflower-salad)"
 ---
 ### Source
 Cooking Light
@@ -12,7 +16,7 @@ Cooking Light
 * 2 tablespoons refrigerated pesto
 * 1 cup baby arugula
 * 1/8 teaspoon freshly ground black pepper
-* 1/4 cup (2 ounces) soft goat cheeser
+* 1/4 cup (2 ounces) soft goat cheese
 
 ### Directions
 1. Preheat broiler.

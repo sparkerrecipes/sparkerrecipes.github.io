@@ -1,5 +1,10 @@
 ---
-tags: side vegetarian
+tags: side salad pasta vegetarian
+pairings:
+  - "[Mediterranean Chicken Kabobs](/recipes/mediterranean-chicken-kabobs)"
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Lemon Paprika Chicken](/recipes/lemon-paprika-chicken)"
+  - "[Baked Salmon with Red Pepper Paste](/recipes/baked-salmon-with-red-pepper-paste)"
 ---
 
 ### Ingredients

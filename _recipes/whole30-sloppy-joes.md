@@ -1,5 +1,10 @@
 ---
 tags: main
+pairings:
+  - "Baked sweet potatoes in place of buns"
+  - "[Seasoned Yukon Gold Wedges](/recipes/seasoned-yukon-gold-wedges)"
+  - "[Quick Cabbage Slaw](/recipes/quick-cabbage-slaw)"
+  - "[Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
 ---
 
 ### Source

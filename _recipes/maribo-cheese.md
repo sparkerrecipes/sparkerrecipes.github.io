@@ -1,5 +1,8 @@
 ---
-tags: cheese
+tags: misc
+pairings:
+  - "[Hotel Keflavik Burger](/recipes/hotel-keflavik-burger)"
+  - "Rye crackers and pickles"
 ---
 
 _Will I ever try this? Unlikely, but I have night terrors at the idea of never eating this cheese again._
@@ -16,7 +19,7 @@ _Will I ever try this? Unlikely, but I have night terrors at the idea of never e
 
 ### Required tools
 * Pot with lid
-* Collander
+* Colander
 * Sieve spoon
 * Long knife
 * Dropper
@@ -29,7 +32,7 @@ _Will I ever try this? Unlikely, but I have night terrors at the idea of never e
 
 ### Steps
 0. Pour milk into the pot and slowly heat it to 32°C
-0. In a small amount cold water, mix starter culture. Add the mix to the milk and gently stir for half a minute.
+0. In a small amount of cold water, mix starter culture. Add the mix to the milk and gently stir for half a minute.
 0. Put a lid on the pot and wrap it in a towel to keep it warm. Let it rest for 30 minutes.
 0. Mix rennet with a small amount of cold water – add it to the milk and stir thoroughly for half a minute.
 0. Cover the pot with a lid and a towel once again and leave it for 35 minutes.
@@ -44,7 +47,7 @@ _Will I ever try this? Unlikely, but I have night terrors at the idea of never e
 0. Drain off all whey.
 0. Add 25 g of salt to the curd and knead the curd with the salt for 5 minutes.
 0. Use plastic gloves for optimal hygiene.
-0. Place a large mould in a pot, eventually on top of two cheese mats. Line the mould with a scolded cheese cloth. Now, fill the mould with the curd. Fold the excess cheese cloth over the top of the curd. Make sure there are a minimum of folds and creases across the top before you put the mould lid on - this could cause an uneveness to the cheese crust.
+0. Place a large mould in a pot, eventually on top of two cheese mats. Line the mould with a scalded cheese cloth. Now, fill the mould with the curd. Fold the excess cheese cloth over the top of the curd. Make sure there are a minimum of folds and creases across the top before you put the mould lid on - this could cause an unevenness to the cheese crust.
 0. Apply pressure to the cheese - use a cheese press or use the following instructions:
 0. Add a solid bowl - or similar - on top of the mould lid. It must reach at least 3 cm above the brim of the mould. Now, get a bucket or pot with a smaller diameter than the cheese pot and place it on top of the solid bowl. Fill the inserted bucket/pot with water to create pressure on the cheese.
 0. Leave the cheese under pressure for ½ hour.
@@ -55,4 +58,4 @@ _Will I ever try this? Unlikely, but I have night terrors at the idea of never e
 0. Apply cheese coating.
 0. Eventually apply a second layer of cheese coating after 1 week.
 0. Mature the cheese for 3-4 weeks at 16°C - then 1-2 weeks at 12°C. If you can not provide these temperatures, mature it in the fridge but be aware it prolongs the maturation time.
-0. Should mouldy patches appear on the crust during maturation, carefully scrabe and wash them off, and finish of by saltning it and adding a new layer of coating.
+0. Should mouldy patches appear on the crust during maturation, carefully scrape and wash them off, and finish off by salting it and adding a new layer of coating.

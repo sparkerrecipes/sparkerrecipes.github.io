@@ -1,5 +1,8 @@
 ---
-tags: pasta vegetarian one-dish
+tags: main pasta vegetarian one-dish
+pairings:
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
+  - "Green salad with [Basic Balsamic Vinaigrette](/recipes/basic-balsamic-vinaigrette)"
 ---
 
 _The first vegetarian dish I regularly made._

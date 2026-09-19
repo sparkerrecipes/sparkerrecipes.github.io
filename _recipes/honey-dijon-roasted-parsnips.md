@@ -1,5 +1,10 @@
 ---
-tags: side fall
+tags: side vegetarian fall
+pairings:
+  - "[Mom's Pot Roast](/recipes/moms-pot-roast)"
+  - "[Braised Chicken with Mushrooms](/recipes/braised-chicken-with-mushrooms)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Wild Rice with Cranberries and Brussels Sprouts](/recipes/wild-rice-with-cranberries-and-brussel-sprouts)"
 ---
 
 ### Source

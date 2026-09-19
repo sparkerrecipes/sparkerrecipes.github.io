@@ -1,5 +1,9 @@
 ---
-tags: soup main vegetarian one-dish
+tags: main soup vegetarian one-dish
+pairings:
+  - "[Eggplant Sandwiches](/recipes/eggplant-sandwiches)"
+  - "[Cauliflower Salad](/recipes/cauliflower-salad)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
 ---
 
 ### Source

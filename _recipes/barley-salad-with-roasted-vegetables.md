@@ -1,5 +1,9 @@
 ---
-tags: side mediterranean
+tags: side salad mediterranean vegetarian
+pairings:
+  - "[Mediterranean Chicken Kabobs](/recipes/mediterranean-chicken-kabobs)"
+  - "[Harissa Chicken Thighs](/recipes/harissa-chicken-thighs)"
+  - "[Baked Salmon with Red Pepper Paste](/recipes/baked-salmon-with-red-pepper-paste)"
 ---
 
 [Source](https://www.themediterraneandish.com/roasted-vegetables-barley-recipe/)
@@ -14,7 +18,7 @@ tags: side mediterranean
 * Extra virgin olive oil
 * Kosher salt
 * Freshly ground black pepper
-* 2 teaspoons baharat or ras al hanout, divided
+* 2 teaspoons baharat or ras el hanout, divided
 * 3/4 teaspoon smoked paprika, divided
 * 2 green onions, finely chopped
 * 1 garlic clove, minced
@@ -26,6 +30,6 @@ tags: side mediterranean
 ### Instructions
 0. Get ready. Preheat oven to 425°F. Rinse the barley in a fine mesh sieve to remove any surface starch.
 0. Cook barley. Transfer barley to a saucepan and add water. Bring to a boil, then lower heat to a simmer. Cover and cook until the barley is cooked through (should be tender but maintains some chew), anywhere from 30 to 45 minutes.
-0. Roast vegetables. While barley is cooking, place zucchini, bell peppers, and onion on a large rimmed baking sheet. Drizzle with extra virgin olive oil. Season with salt, pepper, 1 1/2 teaspoons baharat or ras al hanout, and 1/2 teaspoon smoked paprika. Toss to coat. Spread evenly in one layer on the baking sheet. Roast until softened and beginning to caramelize, about for 25 minutes.
-0. Drain and season barley. When barley is ready, drain it through a fine mesh sieve to remove any excess water. Transfer cooked barley to a large mixing bowl. Season it with salt, pepper, and remaining 1/2 teaspoon baharat or ras al hanout and 1/4 teaspoon smoked paprika. Toss to combine.
+0. Roast vegetables. While barley is cooking, place zucchini, bell peppers, and onion on a large rimmed baking sheet. Drizzle with extra virgin olive oil. Season with salt, pepper, 1 1/2 teaspoons baharat or ras el hanout, and 1/2 teaspoon smoked paprika. Toss to coat. Spread evenly in one layer on the baking sheet. Roast until softened and beginning to caramelize, about 25 minutes.
+0. Drain and season barley. When barley is ready, drain it through a fine mesh sieve to remove any excess water. Transfer cooked barley to a large mixing bowl. Season it with salt, pepper, and remaining 1/2 teaspoon baharat or ras el hanout and 1/4 teaspoon smoked paprika. Toss to combine.
 0. Combine the barley and vegetables. Once the vegetables are ready, add them to the bowl with the barley. Add green onions, garlic, and parsley. Dress with lemon juice and a good drizzle of extra virgin olive oil. Toss. If you like, top with crumbled feta and toasted pine nuts. Serve warm, at room temperature, or chilled.

@@ -1,5 +1,10 @@
 ---
-tags: main instantpot
+tags: main instantpot one-dish
+pairings:
+  - "Roasted broccoli"
+  - "[Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
+  - "[Shaved Arugula Fennel and Apple Salad](/recipes/shaved-arugula-fennel-and-apple-salad)"
 ---
 
 ### Source

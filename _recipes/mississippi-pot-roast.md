@@ -1,5 +1,10 @@
 ---
 tags: main slowcooker
+pairings:
+  - "[Crispy Smashed Potatoes](/recipes/crispy-smashed-potatoes)"
+  - "[Honey Dijon Roasted Parsnips](/recipes/honey-dijon-roasted-parsnips)"
+  - "[Broccoli Salad (No Mayo)](/recipes/broccoli-salad-no-mayo)"
+  - "[Italian Green Beans with Anchovy Sauce](/recipes/italian-green-beans-with-anchovy-sauce)"
 ---
 
 ### Source

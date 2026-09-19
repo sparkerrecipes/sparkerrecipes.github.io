@@ -1,6 +1,11 @@
 ---
-tags: side mediterranean
+tags: side mediterranean vegetarian
 title: Catalan-style Spinach (or other greens)
+pairings:
+  - "[Baked Cod with Lemon and Garlic](/recipes/baked-cod-with-lemon-and-garlic)"
+  - "[Spanish Lentils](/recipes/spanish-lentils)"
+  - "[Pan-Fried Chicken Thighs](/recipes/pan-fried-chicken-thighs)"
+  - "[Lemon Paprika Chicken](/recipes/lemon-paprika-chicken)"
 ---
 
 ### Source
@@ -21,7 +26,7 @@ Based on [Mystery Lovers Kitchen](https://www.mysteryloverskitchen.com/2023/03/s
 ### Directions
 0. Heat oil in a large pan over medium-high. Add onion and cook until tender, about 3-4 minutes.
 0. Lower heat to medium, add garlic and chili flakes, and saute a few more minutes, until fragrant.
-0. Add raisins and wine, sauteeing until the wine mostly–but not totally–cooks off. Add more at any time if you think it needs it
+0. Add raisins and wine, sautéing until the wine mostly–but not totally–cooks off. Add more at any time if you think it needs it
 0. Add greens, stirring to wilt. Spinach will cook in a couple minutes, while sturdier greens will take longer.
-0. Season with a little salt and pepper. Continue sauteeing until desired tenderness, then remove from heat.
+0. Season with a little salt and pepper. Continue sautéing until desired tenderness, then remove from heat.
 0. Add a pinch of sugar and nutmeg. Stir in pine nuts.

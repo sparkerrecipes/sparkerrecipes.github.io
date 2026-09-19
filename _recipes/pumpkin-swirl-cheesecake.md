@@ -1,5 +1,8 @@
 ---
-tags: dessert
+tags: dessert fall
+pairings:
+  - "Coffee"
+  - "[Bourbon Pecan Pie](/recipes/bourbon-pecan-pie) alongside for a Thanksgiving dessert spread"
 ---
 
 ### Source

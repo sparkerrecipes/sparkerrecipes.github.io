@@ -1,5 +1,10 @@
 ---
-tags: main asian
+tags: main indian instantpot
+pairings:
+  - "Basmati rice"
+  - "[Bhindi Masala](/recipes/bhindi-masala)"
+  - "[Instant Pot Punjabi Chikar Cholay](/recipes/instant-pot-punjabi-chikar-cholay)"
+  - "Cucumber-tomato salad with lime"
 ---
 
 ### Source

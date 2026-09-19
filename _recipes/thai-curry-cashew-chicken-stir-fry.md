@@ -1,6 +1,10 @@
 ---
-tags: main one-dish asian
+tags: main asian one-dish
 title: "Thai Curry Cashew Chicken Stir-Fry"
+pairings:
+  - "Steamed jasmine rice"
+  - "[Easy Fried Rice](/recipes/easy-fried-rice)"
+  - "[Cucumber Radish Salad with Tahini Dressing](/recipes/cucumber-radish-salad-with-tahini-dressing)"
 ---
 
 ### Ingredients

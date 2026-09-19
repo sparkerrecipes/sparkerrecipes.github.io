@@ -1,5 +1,10 @@
 ---
-tags: side mexican
+tags: side salad mexican vegetarian
+pairings:
+  - "[Cast Iron Chicken Fajitas](/recipes/cast-iron-chicken-fajitas)"
+  - "[Chicken Tinga Tacos](/recipes/chicken-tinga-tacos)"
+  - "[Slow-cooker Pernil](/recipes/pernil)"
+  - "[Chicken Posole Soup](/recipes/chicken-posole-soup)"
 ---
 
 [Source](https://flavormosaic.com/cucumber-tomato-salad-with-a-mexican-twist/)
@@ -20,6 +25,6 @@ tags: side mexican
 * 1 tablespoon sugar (Optional)
 
 ### Instructions
-0. In a medium bowl, add the tomatoes, cucumbers, and onions and toss. Sprinkle in the Cotia Cheese and Chopped cilantro.
+0. In a medium bowl, add the tomatoes, cucumbers, and onions and toss. Sprinkle in the Cotija Cheese and Chopped cilantro.
 0. In a measuring cup or in a bowl, stir together the olive oil, red wine vinegar, minced garlic, Mexican oregano and salt and pepper.  If desired, add sugar, otherwise, omit the sugar.
 0. Pour the vinaigrette over the cucumbers, tomatoes, and onions and let marinate.
