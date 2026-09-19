@@ -1,0 +1,27 @@
+---
+tags: side mediterranean vegetarian
+---
+
+inspired by prasorizo
+
+### Source
+[NYT](https://cooking.nytimes.com/recipes/1020273-baked-rice-with-white-beans-leeks-and-lemon?unlocked_article_code=1.-1A.kARI.BL4QRqECyDFs&smid=ck-recipe-iOS-share)
+
+### Ingredients
+* 4 leeks (about 2 pounds), trimmed, white and pale green parts sliced ¼-inch thick
+* 1 lemon
+* ¼ cup raw almonds
+* ½ teaspoon red-pepper flakes
+* 5 tablespoons extra-virgin olive oil
+* Kosher salt and black pepper
+* 1 ½ cups uncooked basmati rice
+* 1 (15-ounce) can white beans (such as cannellini or great Northern), rinsed
+* 2 ½ cups boiling water
+* ½ cup freshly grated Parmesan, plus more for serving
+* ¼ cup thinly sliced or chopped basil, chives, mint or fennel fronds, plus more for serving
+
+### Directions
+0. Heat the oven to 400 degrees. Rinse the leeks until they’re clean, then shake or pat dry. Using a vegetable peeler, peel 1-inch-thick strips of lemon zest, then cut the lemon in half. Cut one half into four wedges and reserve the other half.
+0. In a 9-by-13-inch baking pan, combine the leeks, lemon zest strips, almonds, red-pepper flakes and olive oil. Season generously with salt and pepper, and arrange in an even layer. Roast until the leeks start to caramelize, about 20 minutes.
+0. Finely chop the lemon zest strips, then stir it back into the leek mixture and arrange in an even layer. Sprinkle the rice evenly over the leeks, then top with the beans and 1 teaspoon salt. Add the boiling water, then seal the pan tightly with foil. Bake until the rice is tender, 20 to 22 minutes.
+0. Remove from the oven, and let sit, covered, for 5 minutes, then fluff with a fork. Squeeze the lemon half over the rice, then stir in Parmesan and herbs. Season to taste with salt and pepper. Serve with lemon wedges, and more Parmesan and herbs, as desired.
