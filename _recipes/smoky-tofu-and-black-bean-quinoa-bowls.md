@@ -5,26 +5,26 @@ tags: lunch vegetarian
 Five make-ahead lunches: smoky baked tofu, roasted sweet potato, black beans, and corn over quinoa, with a quick blender salsa.
 
 ### Ingredients
-• 14 ounces extra-firm tofu, pressed and cut into 3/4-inch cubes
-• 1 tablespoons cornstarch
-• 1 tablespoons tamari (gluten-free soy sauce)
-• 2 tablespoons olive oil, divided
-• 2 teaspoons smoked paprika
-• 1.5 teaspoons ground cumin
-• 1 teaspoons chili powder
-• 0.5 teaspoons garlic powder
-• 1 teaspoons kosher salt, divided
-• 2 medium sweet potatoes, cut into 3/4-inch cubes
-• 1 cups dry quinoa, rinsed
-• 2 cups water
-• 1 can black beans (15 oz), drained and rinsed
-• 1 cups frozen corn, thawed
-• 1 can fire-roasted diced tomatoes (14.5 oz)
-• 0.3 cups white or red onion, roughly chopped
-• 1 jalapeño, seeded for mild
-• 1 garlic clove
-• 0.5 cups fresh cilantro, loosely packed
-• 1 lime, juiced
+* 14 ounces extra-firm tofu, pressed and cut into 3/4-inch cubes
+* 1 tablespoons cornstarch
+* 1 tablespoons tamari (gluten-free soy sauce)
+* 2 tablespoons olive oil, divided
+* 2 teaspoons smoked paprika
+* 1.5 teaspoons ground cumin
+* 1 teaspoons chili powder
+* 0.5 teaspoons garlic powder
+* 1 teaspoons kosher salt, divided
+* 2 medium sweet potatoes, cut into 3/4-inch cubes
+* 1 cups dry quinoa, rinsed
+* 2 cups water
+* 1 can black beans (15 oz), drained and rinsed
+* 1 cups frozen corn, thawed
+* 1 can fire-roasted diced tomatoes (14.5 oz)
+* 0.3 cups white or red onion, roughly chopped
+* 1 jalapeño, seeded for mild
+* 1 garlic clove
+* 0.5 cups fresh cilantro, loosely packed
+* 1 lime, juiced
 
 ### Instructions
 1. Preheat: Heat the oven to 425°F and line a large sheet pan with parchment.

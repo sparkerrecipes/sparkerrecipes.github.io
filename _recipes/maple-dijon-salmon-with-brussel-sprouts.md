@@ -8,16 +8,16 @@ A sheet-pan dinner: the sprouts get a head start, then the glazed salmon joins t
 Claude
 
 ### Ingredients
-• 2 pounds Brussels sprouts, trimmed and halved
-• 3 tablespoons olive oil
-• 1.5 teaspoons kosher salt, divided
-• 0.5 teaspoons black pepper
-• 4 salmon fillets (about 6 oz each)
-• 4 tablespoons maple syrup
-• 3 tablespoons Dijon mustard
-• 2 teaspoons whole-grain mustard (optional)
-• 2 garlic clove, grated
-• 2 teaspoons lemon juice
+* 2 pounds Brussels sprouts, trimmed and halved
+* 3 tablespoons olive oil
+* 1.5 teaspoons kosher salt, divided
+* 0.5 teaspoons black pepper
+* 4 salmon fillets (about 6 oz each)
+* 4 tablespoons maple syrup
+* 3 tablespoons Dijon mustard
+* 2 teaspoons whole-grain mustard (optional)
+* 2 garlic clove, grated
+* 2 teaspoons lemon juice
 
 ### Instructions
 1. Preheat: Heat the oven to 425°F and line a rimmed sheet pan with parchment.
