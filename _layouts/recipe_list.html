@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-{% assign posts = paginator.recipes | default: site.recipes %}
+{% assign posts = site.recipes | sort: "date" | reverse %}
 
 <div class="posts-list">
   {% for post in posts %}
